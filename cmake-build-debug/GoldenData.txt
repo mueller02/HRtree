@@ -1,0 +1,9000 @@
+1
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\1.jpg
+false
+6307267162
+-105.2338663
+39.768802
+2020 6 17
+0 6 40
+
+2
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\2.jpg
+false
+2256745734
+-105.2175505
+39.7536636
+2020 6 17
+0 7 52
+
+3
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\3.jpg
+false
+7007180685
+-105.2237704
+39.7615765
+2020 6 17
+0 8 14
+
+4
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\4.jpg
+false
+7310850314
+-105.2166384
+39.7529981
+2020 6 17
+0 9 8
+
+5
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\5.jpg
+false
+7007225334
+-105.2236927
+39.7574552
+2020 6 17
+0 10 42
+
+6
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\6.jpg
+false
+7007229347
+-105.2333707
+39.7662124
+2020 6 17
+0 11 50
+
+7
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\7.jpg
+false
+3729942830
+-105.2011911
+39.734004
+2020 6 17
+0 12 15
+
+8
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\8.jpg
+false
+7317509635
+-105.2336105
+39.7594726
+2020 6 17
+0 13 30
+
+9
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\9.jpg
+false
+5558749638
+-105.1999471
+39.740313
+2020 6 17
+0 14 41
+
+10
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\10.jpg
+false
+7024937758
+-105.2046168
+39.7319728
+2020 6 17
+0 15 2
+
+11
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\11.jpg
+false
+4059390680
+-105.2442763
+39.7527653
+2020 6 17
+0 16 34
+
+12
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\12.jpg
+false
+439942904
+-105.2103219
+39.7304818
+2020 6 17
+0 17 3
+
+13
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\13.jpg
+false
+1075436362
+-105.1945111
+39.7394581
+2020 6 17
+0 18 34
+
+14
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\14.jpg
+false
+3711282293
+-105.1965364
+39.7320259
+2020 6 17
+0 19 36
+
+15
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\15.jpg
+false
+7007225332
+-105.2238761
+39.7573559
+2020 6 17
+0 20 19
+
+16
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\16.jpg
+false
+177382858
+-105.2172584
+39.7632568
+2020 6 17
+0 21 43
+
+17
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\17.jpg
+false
+1054596209
+-105.2018073
+39.740665
+2020 6 17
+0 22 25
+
+18
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\18.jpg
+false
+1363051094
+-105.2159526
+39.7443415
+2020 6 17
+0 23 5
+
+19
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\19.jpg
+false
+6048114799
+-105.2218203
+39.7441495
+2020 6 17
+0 24 14
+
+20
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\20.jpg
+true
+825251000
+-105.2201448
+39.7519629
+2020 6 17
+0 25 50
+
+21
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\21.jpg
+false
+3969510911
+-105.2200137
+39.7549972
+2020 6 17
+0 26 3
+
+22
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\22.jpg
+false
+4112539711
+-105.2238158
+39.7527331
+2020 6 17
+0 27 28
+
+23
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\23.jpg
+false
+7021053911
+-105.2288264
+39.7483768
+2020 6 17
+0 28 26
+
+24
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\24.jpg
+false
+580430913
+-105.2120022
+39.7372312
+2020 6 17
+0 29 51
+
+25
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\25.jpg
+false
+7007225345
+-105.225591
+39.7574382
+2020 6 17
+0 30 23
+
+26
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\26.jpg
+false
+7317509514
+-105.2269831
+39.7581011
+2020 6 17
+0 31 47
+
+27
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\27.jpg
+false
+3697179185
+-105.2081149
+39.7460312
+2020 6 17
+0 32 43
+
+28
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\28.jpg
+false
+388452727
+-105.2250041
+39.7482102
+2020 6 17
+0 33 23
+
+29
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\29.jpg
+false
+7317466576
+-105.2270233
+39.7579073
+2020 6 17
+0 34 35
+
+30
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\30.jpg
+false
+7013008360
+-105.2150394
+39.7538439
+2020 6 17
+0 35 28
+
+31
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\31.jpg
+false
+177368753
+-105.2212574
+39.7617696
+2020 6 17
+0 36 25
+
+32
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\32.jpg
+false
+6050438823
+-105.2355878
+39.7528408
+2020 6 17
+0 37 10
+
+33
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\33.jpg
+false
+7024937727
+-105.205691
+39.7313679
+2020 6 17
+0 38 31
+
+34
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\34.jpg
+false
+6050219701
+-105.2341922
+39.7553
+2020 6 17
+0 39 11
+
+35
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\35.jpg
+false
+6047705363
+-105.2217183
+39.7438433
+2020 6 17
+0 40 36
+
+36
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\36.jpg
+false
+983941479
+-105.2224054
+39.7409263
+2020 6 17
+0 41 8
+
+37
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\37.jpg
+false
+6906253420
+-105.2245986
+39.7453731
+2020 6 17
+0 42 50
+
+38
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\38.jpg
+false
+2622973642
+-105.2228482
+39.751506
+2020 6 17
+0 43 20
+
+39
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\39.jpg
+false
+440477094
+-105.2277613
+39.7468327
+2020 6 17
+0 44 14
+
+40
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\40.jpg
+true
+7117372166
+-105.2356771
+39.763822
+2020 6 17
+0 45 50
+
+41
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\41.jpg
+false
+1342736733
+-105.2078971
+39.7314798
+2020 6 17
+0 46 49
+
+42
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\42.jpg
+false
+7310850345
+-105.218294
+39.7571918
+2020 6 17
+0 47 36
+
+43
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\43.jpg
+false
+4098330947
+-105.2120259
+39.7470309
+2020 6 17
+0 48 16
+
+44
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\44.jpg
+false
+7317522306
+-105.2323428
+39.7663129
+2020 6 17
+0 49 49
+
+45
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\45.jpg
+false
+7007225315
+-105.2265973
+39.7558477
+2020 6 17
+0 50 7
+
+46
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\46.jpg
+false
+2659145353
+-105.2154997
+39.7575038
+2020 6 17
+0 51 37
+
+47
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\47.jpg
+false
+6047714708
+-105.2276627
+39.7502779
+2020 6 17
+0 52 1
+
+48
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\48.jpg
+false
+2032099650
+-105.2306744
+39.7545065
+2020 6 17
+0 53 51
+
+49
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\49.jpg
+false
+817841130
+-105.1963489
+39.7391908
+2020 6 17
+0 54 38
+
+50
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\50.jpg
+false
+3725544912
+-105.1954255
+39.7414744
+2020 6 17
+0 55 59
+
+51
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\51.jpg
+false
+602914942
+-105.2358304
+39.7644236
+2020 6 17
+0 56 10
+
+52
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\52.jpg
+false
+7127276310
+-105.2360201
+39.7586563
+2020 6 17
+0 57 53
+
+53
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\53.jpg
+false
+5567264092
+-105.1981902
+39.731948
+2020 6 17
+0 58 10
+
+54
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\54.jpg
+false
+7127276547
+-105.2373719
+39.7648027
+2020 6 17
+0 59 42
+
+55
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\55.jpg
+false
+3729933689
+-105.1994145
+39.727399
+2020 6 17
+1 0 25
+
+56
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\56.jpg
+false
+6906253424
+-105.2246036
+39.745311
+2020 6 17
+1 1 12
+
+57
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\57.jpg
+false
+5567263140
+-105.2039796
+39.7263247
+2020 6 17
+1 2 56
+
+58
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\58.jpg
+false
+4015495203
+-105.2232188
+39.7555173
+2020 6 17
+1 3 36
+
+59
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\59.jpg
+false
+7007225285
+-105.2261429
+39.7551656
+2020 6 17
+1 4 31
+
+60
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\60.jpg
+true
+1013061212
+-105.2085049
+39.7280587
+2020 6 17
+1 5 19
+
+61
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\61.jpg
+false
+3991375691
+-105.2230452
+39.7588599
+2020 6 17
+1 6 43
+
+62
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\62.jpg
+false
+6914305411
+-105.2095628
+39.7469786
+2020 6 17
+1 7 14
+
+63
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\63.jpg
+false
+439949649
+-105.2059454
+39.7291793
+2020 6 17
+1 8 3
+
+64
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\64.jpg
+false
+3708207972
+-105.2076767
+39.7420154
+2020 6 17
+1 9 22
+
+65
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\65.jpg
+false
+602918699
+-105.2261968
+39.7661738
+2020 6 17
+1 10 26
+
+66
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\66.jpg
+false
+5558798283
+-105.2192161
+39.7474498
+2020 6 17
+1 11 25
+
+67
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\67.jpg
+false
+6997886160
+-105.2191725
+39.7503418
+2020 6 17
+1 12 29
+
+68
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\68.jpg
+false
+5567263900
+-105.2061899
+39.727882
+2020 6 17
+1 13 10
+
+69
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\69.jpg
+false
+5561697799
+-105.2263467
+39.7592306
+2020 6 17
+1 14 24
+
+70
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\70.jpg
+false
+1342733692
+-105.1989484
+39.7404773
+2020 6 17
+1 15 26
+
+71
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\71.jpg
+false
+1342733554
+-105.2002528
+39.7422424
+2020 6 17
+1 16 16
+
+72
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\72.jpg
+false
+7081642455
+-105.2245953
+39.7580906
+2020 6 17
+1 17 2
+
+73
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\73.jpg
+false
+7127246147
+-105.2348399
+39.7627223
+2020 6 17
+1 18 25
+
+74
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\74.jpg
+false
+177261578
+-105.2105294
+39.7489961
+2020 6 17
+1 19 29
+
+75
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\75.jpg
+false
+7007180789
+-105.2191772
+39.759712
+2020 6 17
+1 20 52
+
+76
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\76.jpg
+false
+439949664
+-105.200024
+39.7251577
+2020 6 17
+1 21 22
+
+77
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\77.jpg
+false
+7127246175
+-105.2344671
+39.762028
+2020 6 17
+1 22 36
+
+78
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\78.jpg
+false
+580430226
+-105.2174101
+39.7396936
+2020 6 17
+1 23 50
+
+79
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\79.jpg
+false
+1054571655
+-105.2098707
+39.7281035
+2020 6 17
+1 24 4
+
+80
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\80.jpg
+true
+3717628186
+-105.2327675
+39.7618883
+2020 6 17
+1 25 13
+
+81
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\81.jpg
+false
+4551517947
+-105.2311197
+39.7579181
+2020 6 17
+1 26 37
+
+82
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\82.jpg
+false
+7117372176
+-105.2358639
+39.7650542
+2020 6 17
+1 27 5
+
+83
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\83.jpg
+false
+3699179799
+-105.1996088
+39.7369978
+2020 6 17
+1 28 7
+
+84
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\84.jpg
+false
+4043708575
+-105.2003465
+39.7476426
+2020 6 17
+1 29 27
+
+85
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\85.jpg
+false
+3956017424
+-105.224695
+39.7551556
+2020 6 17
+1 30 33
+
+86
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\86.jpg
+false
+3755225235
+-105.2120275
+39.7431601
+2020 6 17
+1 31 58
+
+87
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\87.jpg
+false
+1342742658
+-105.2158418
+39.7413865
+2020 6 17
+1 32 18
+
+88
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\88.jpg
+false
+4705189741
+-105.196665
+39.7393539
+2020 6 17
+1 33 30
+
+89
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\89.jpg
+false
+7161398369
+-105.2140977
+39.7518866
+2020 6 17
+1 34 44
+
+90
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\90.jpg
+false
+3717742412
+-105.231061
+39.7655961
+2020 6 17
+1 35 5
+
+91
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\91.jpg
+false
+1342736741
+-105.2045261
+39.730388
+2020 6 17
+1 36 5
+
+92
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\92.jpg
+false
+3398382870
+-105.2337993
+39.7493102
+2020 6 17
+1 37 22
+
+93
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\93.jpg
+false
+3723089147
+-105.233912
+39.7504189
+2020 6 17
+1 38 17
+
+94
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\94.jpg
+false
+4015494636
+-105.2230582
+39.7538393
+2020 6 17
+1 39 21
+
+95
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\95.jpg
+false
+2622973576
+-105.2225598
+39.7498786
+2020 6 17
+1 40 2
+
+96
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\96.jpg
+false
+6997785180
+-105.2239884
+39.7470951
+2020 6 17
+1 41 44
+
+97
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\97.jpg
+false
+825251045
+-105.2234897
+39.7491655
+2020 6 17
+1 42 0
+
+98
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\98.jpg
+false
+3725545762
+-105.1967562
+39.7420497
+2020 6 17
+1 43 49
+
+99
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\99.jpg
+false
+559829849
+-105.2096598
+39.7307425
+2020 6 17
+1 44 59
+
+100
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\100.jpg
+true
+560142300
+-105.2116685
+39.7321208
+2020 6 17
+1 45 12
+
+101
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\101.jpg
+false
+177339646
+-105.2311627
+39.7715226
+2020 6 17
+1 46 2
+
+102
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\102.jpg
+false
+506060315
+-105.2190545
+39.7623664
+2020 6 17
+1 47 32
+
+103
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\103.jpg
+false
+5567262993
+-105.2086434
+39.7275197
+2020 6 17
+1 48 16
+
+104
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\104.jpg
+false
+7041233092
+-105.2395559
+39.7683349
+2020 6 17
+1 49 53
+
+105
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\105.jpg
+false
+580430464
+-105.2155696
+39.7400115
+2020 6 17
+1 50 24
+
+106
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\106.jpg
+false
+6928991908
+-105.2157386
+39.752719
+2020 6 17
+1 51 15
+
+107
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\107.jpg
+false
+322094615
+-105.243681
+39.7662182
+2020 6 17
+1 52 0
+
+108
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\108.jpg
+false
+177352808
+-105.2224274
+39.7548105
+2020 6 17
+1 53 12
+
+109
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\109.jpg
+false
+580431623
+-105.2117716
+39.7378252
+2020 6 17
+1 54 21
+
+110
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\110.jpg
+false
+1342733544
+-105.1948831
+39.7379039
+2020 6 17
+1 55 27
+
+111
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\111.jpg
+false
+560142280
+-105.215754
+39.7368204
+2020 6 17
+1 56 36
+
+112
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\112.jpg
+false
+3717647175
+-105.2286629
+39.755103
+2020 6 17
+1 57 16
+
+113
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\113.jpg
+false
+490267223
+-105.2338123
+39.7678303
+2020 6 17
+1 58 57
+
+114
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\114.jpg
+false
+1342733859
+-105.1987347
+39.7407048
+2020 6 17
+1 59 44
+
+115
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\115.jpg
+false
+1034931334
+-105.2187319
+39.7586347
+2020 6 17
+2 0 12
+
+116
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\116.jpg
+false
+6914305336
+-105.2090522
+39.7474568
+2020 6 17
+2 1 27
+
+117
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\117.jpg
+false
+1342733725
+-105.1981232
+39.7402892
+2020 6 17
+2 2 40
+
+118
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\118.jpg
+false
+7012983529
+-105.2205756
+39.7536268
+2020 6 17
+2 3 41
+
+119
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\119.jpg
+false
+7007153109
+-105.2221105
+39.7581243
+2020 6 17
+2 4 29
+
+120
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\120.jpg
+true
+7317509617
+-105.2296807
+39.7590512
+2020 6 17
+2 5 55
+
+121
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\121.jpg
+false
+5993763978
+-105.209334
+39.7301675
+2020 6 17
+2 6 35
+
+122
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\122.jpg
+false
+3723089178
+-105.2363655
+39.7517034
+2020 6 17
+2 7 53
+
+123
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\123.jpg
+false
+5175684690
+-105.2210407
+39.7469674
+2020 6 17
+2 8 11
+
+124
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\124.jpg
+false
+3699219901
+-105.2069202
+39.7432813
+2020 6 17
+2 9 4
+
+125
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\125.jpg
+false
+5175706501
+-105.2215466
+39.7466004
+2020 6 17
+2 10 39
+
+126
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\126.jpg
+false
+7127256602
+-105.2353267
+39.7630656
+2020 6 17
+2 11 15
+
+127
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\127.jpg
+false
+6997785197
+-105.2226634
+39.7469946
+2020 6 17
+2 12 21
+
+128
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\128.jpg
+false
+7057417065
+-105.2077255
+39.7278225
+2020 6 17
+2 13 31
+
+129
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\129.jpg
+false
+6997886116
+-105.2189852
+39.7510704
+2020 6 17
+2 14 8
+
+130
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\130.jpg
+false
+7012988395
+-105.2235732
+39.7527164
+2020 6 17
+2 15 19
+
+131
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\131.jpg
+false
+6786434049
+-105.2183499
+39.7520447
+2020 6 17
+2 16 53
+
+132
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\132.jpg
+false
+1342703427
+-105.1970074
+39.7404518
+2020 6 17
+2 17 52
+
+133
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\133.jpg
+false
+4059389981
+-105.2136694
+39.7544192
+2020 6 17
+2 18 56
+
+134
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\134.jpg
+false
+7007180595
+-105.2275376
+39.7636007
+2020 6 17
+2 19 4
+
+135
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\135.jpg
+false
+1313739446
+-105.2154458
+39.7358122
+2020 6 17
+2 20 15
+
+136
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\136.jpg
+false
+322094362
+-105.2439835
+39.7643946
+2020 6 17
+2 21 15
+
+137
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\137.jpg
+false
+7161426697
+-105.2113578
+39.7520372
+2020 6 17
+2 22 52
+
+138
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\138.jpg
+false
+439949580
+-105.2041378
+39.7283835
+2020 6 17
+2 23 14
+
+139
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\139.jpg
+false
+7041234901
+-105.2334733
+39.7584893
+2020 6 17
+2 24 9
+
+140
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\140.jpg
+true
+3398383051
+-105.223473
+39.770083
+2020 6 17
+2 25 38
+
+141
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\141.jpg
+false
+7117386872
+-105.2361837
+39.7634599
+2020 6 17
+2 26 39
+
+142
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\142.jpg
+false
+6997785013
+-105.2239756
+39.7490955
+2020 6 17
+2 27 9
+
+143
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\143.jpg
+false
+6227444813
+-105.2073066
+39.7446901
+2020 6 17
+2 28 31
+
+144
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\144.jpg
+false
+7161426607
+-105.2121111
+39.7506851
+2020 6 17
+2 29 17
+
+145
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\145.jpg
+false
+7007180634
+-105.226399
+39.7636558
+2020 6 17
+2 30 17
+
+146
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\146.jpg
+false
+4059390682
+-105.2445485
+39.7525942
+2020 6 17
+2 31 57
+
+147
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\147.jpg
+false
+4616857361
+-105.2106011
+39.7287442
+2020 6 17
+2 32 30
+
+148
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\148.jpg
+false
+4112325858
+-105.2198706
+39.7538479
+2020 6 17
+2 33 55
+
+149
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\149.jpg
+false
+1054627254
+-105.1972658
+39.7392598
+2020 6 17
+2 34 24
+
+150
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\150.jpg
+false
+7127276514
+-105.2377387
+39.7636161
+2020 6 17
+2 35 23
+
+151
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\151.jpg
+false
+3729942868
+-105.2007709
+39.7343255
+2020 6 17
+2 36 45
+
+152
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\152.jpg
+false
+6923628877
+-105.2093475
+39.7484918
+2020 6 17
+2 37 16
+
+153
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\153.jpg
+false
+3398383035
+-105.223417
+39.772331
+2020 6 17
+2 38 17
+
+154
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\154.jpg
+false
+4929550559
+-105.2184751
+39.7579807
+2020 6 17
+2 39 26
+
+155
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\155.jpg
+false
+6047705724
+-105.2223692
+39.7436319
+2020 6 17
+2 40 38
+
+156
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\156.jpg
+false
+7007180660
+-105.2237155
+39.7615873
+2020 6 17
+2 41 19
+
+157
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\157.jpg
+false
+6906253425
+-105.224558
+39.7453009
+2020 6 17
+2 42 59
+
+158
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\158.jpg
+false
+1054595633
+-105.2004368
+39.727904
+2020 6 17
+2 43 57
+
+159
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\159.jpg
+false
+7012988352
+-105.2197961
+39.7538891
+2020 6 17
+2 44 56
+
+160
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\160.jpg
+true
+462842766
+-105.2132555
+39.7592348
+2020 6 17
+2 45 19
+
+161
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\161.jpg
+false
+3708261004
+-105.2093847
+39.7351956
+2020 6 17
+2 46 35
+
+162
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\162.jpg
+false
+6050219788
+-105.2350464
+39.7551948
+2020 6 17
+2 47 33
+
+163
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\163.jpg
+false
+6048123906
+-105.2119971
+39.7411924
+2020 6 17
+2 48 11
+
+164
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\164.jpg
+false
+1342733651
+-105.1973038
+39.7400552
+2020 6 17
+2 49 22
+
+165
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\165.jpg
+false
+5175684689
+-105.2202134
+39.747415
+2020 6 17
+2 50 31
+
+166
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\166.jpg
+false
+6050449594
+-105.2263741
+39.7490752
+2020 6 17
+2 51 37
+
+167
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\167.jpg
+false
+3754404005
+-105.1957321
+39.7398961
+2020 6 17
+2 52 56
+
+168
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\168.jpg
+false
+3956022775
+-105.2174522
+39.7546281
+2020 6 17
+2 53 7
+
+169
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\169.jpg
+false
+6047624811
+-105.2237435
+39.7456314
+2020 6 17
+2 54 39
+
+170
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\170.jpg
+false
+3717628134
+-105.2301503
+39.7612747
+2020 6 17
+2 55 25
+
+171
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\171.jpg
+false
+6896488878
+-105.2204204
+39.7533848
+2020 6 17
+2 56 10
+
+172
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\172.jpg
+false
+177385739
+-105.2378581
+39.7594507
+2020 6 17
+2 57 54
+
+173
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\173.jpg
+false
+177329021
+-105.223464
+39.7611257
+2020 6 17
+2 58 22
+
+174
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\174.jpg
+false
+3820002004
+-105.2077957
+39.7322786
+2020 6 17
+2 59 16
+
+175
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\175.jpg
+false
+559303498
+-105.2047193
+39.7320782
+2020 6 17
+3 0 2
+
+176
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\176.jpg
+false
+983944270
+-105.2019972
+39.726418
+2020 6 17
+3 1 28
+
+177
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\177.jpg
+false
+3708261338
+-105.2099427
+39.7354513
+2020 6 17
+3 2 52
+
+178
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\178.jpg
+false
+1342742716
+-105.2158827
+39.7418232
+2020 6 17
+3 3 30
+
+179
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\179.jpg
+false
+6067584977
+-105.2053057
+39.7451864
+2020 6 17
+3 4 35
+
+180
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\180.jpg
+true
+7127246171
+-105.23462
+39.7613017
+2020 6 17
+3 5 0
+
+181
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\181.jpg
+false
+6905867567
+-105.21449
+39.7444296
+2020 6 17
+3 6 33
+
+182
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\182.jpg
+false
+580449590
+-105.2146697
+39.7353331
+2020 6 17
+3 7 38
+
+183
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\183.jpg
+false
+4023868609
+-105.2289818
+39.7562698
+2020 6 17
+3 8 52
+
+184
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\184.jpg
+false
+3969506737
+-105.2203267
+39.7526834
+2020 6 17
+3 9 59
+
+185
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\185.jpg
+false
+6905902732
+-105.2059257
+39.746149
+2020 6 17
+3 10 6
+
+186
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\186.jpg
+false
+7317522322
+-105.2306372
+39.7652457
+2020 6 17
+3 11 51
+
+187
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\187.jpg
+false
+5567264500
+-105.2121913
+39.7362054
+2020 6 17
+3 12 54
+
+188
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\188.jpg
+false
+6997784895
+-105.2198786
+39.7487258
+2020 6 17
+3 13 24
+
+189
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\189.jpg
+false
+580430423
+-105.2171574
+39.7425813
+2020 6 17
+3 14 43
+
+190
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\190.jpg
+false
+560142300
+-105.2116685
+39.7321208
+2020 6 17
+3 15 7
+
+191
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\191.jpg
+false
+1075657661
+-105.2214006
+39.7471148
+2020 6 17
+3 16 22
+
+192
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\192.jpg
+false
+322094031
+-105.2393741
+39.7621103
+2020 6 17
+3 17 9
+
+193
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\193.jpg
+false
+6997055239
+-105.2141222
+39.7457789
+2020 6 17
+3 18 29
+
+194
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\194.jpg
+false
+3960637272
+-105.2205844
+39.7564016
+2020 6 17
+3 19 54
+
+195
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\195.jpg
+false
+7007239109
+-105.2362065
+39.7676097
+2020 6 17
+3 20 39
+
+196
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\196.jpg
+false
+6997886119
+-105.2189894
+39.7510025
+2020 6 17
+3 21 34
+
+197
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\197.jpg
+false
+602914907
+-105.235247
+39.7636033
+2020 6 17
+3 22 51
+
+198
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\198.jpg
+false
+7466702734
+-105.2246631
+39.7400844
+2020 6 17
+3 23 49
+
+199
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\199.jpg
+false
+4929550588
+-105.2163257
+39.759101
+2020 6 17
+3 24 12
+
+200
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\200.jpg
+true
+322094411
+-105.2433382
+39.7656991
+2020 6 17
+3 25 38
+
+201
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\201.jpg
+false
+5567263912
+-105.2069449
+39.7275708
+2020 6 17
+3 26 51
+
+202
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\202.jpg
+false
+6986167145
+-105.1979012
+39.7449957
+2020 6 17
+3 27 34
+
+203
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\203.jpg
+false
+6227627774
+-105.2109324
+39.7382627
+2020 6 17
+3 28 44
+
+204
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\204.jpg
+false
+5561696714
+-105.2305752
+39.7527424
+2020 6 17
+3 29 7
+
+205
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\205.jpg
+false
+4059390296
+-105.213311
+39.754977
+2020 6 17
+3 30 27
+
+206
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\206.jpg
+false
+322095079
+-105.2497605
+39.7655207
+2020 6 17
+3 31 47
+
+207
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\207.jpg
+false
+3755214012
+-105.2118669
+39.7429695
+2020 6 17
+3 32 9
+
+208
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\208.jpg
+false
+3697179191
+-105.2079637
+39.7460572
+2020 6 17
+3 33 55
+
+209
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\209.jpg
+false
+580430278
+-105.219094
+39.7438254
+2020 6 17
+3 34 6
+
+210
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\210.jpg
+false
+3699150386
+-105.1964446
+39.7353235
+2020 6 17
+3 35 56
+
+211
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\211.jpg
+false
+5561698069
+-105.219703
+39.7600017
+2020 6 17
+3 36 1
+
+212
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\212.jpg
+false
+5561698026
+-105.215812
+39.7568599
+2020 6 17
+3 37 2
+
+213
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\213.jpg
+false
+7012988407
+-105.2244725
+39.7525486
+2020 6 17
+3 38 21
+
+214
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\214.jpg
+false
+1342742628
+-105.2169147
+39.7439747
+2020 6 17
+3 39 11
+
+215
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\215.jpg
+false
+7007239039
+-105.2371104
+39.7669628
+2020 6 17
+3 40 59
+
+216
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\216.jpg
+false
+1342742605
+-105.2008193
+39.7408486
+2020 6 17
+3 41 10
+
+217
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\217.jpg
+false
+602907881
+-105.2302608
+39.75437
+2020 6 17
+3 42 19
+
+218
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\218.jpg
+false
+7007194356
+-105.2259213
+39.7567281
+2020 6 17
+3 43 3
+
+219
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\219.jpg
+false
+177260048
+-105.1882791
+39.7363275
+2020 6 17
+3 44 36
+
+220
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\220.jpg
+true
+4121920023
+-105.2328664
+39.7553479
+2020 6 17
+3 45 3
+
+221
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\221.jpg
+false
+1342742736
+-105.2150049
+39.7405264
+2020 6 17
+3 46 9
+
+222
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\222.jpg
+false
+1342736652
+-105.1951571
+39.7326694
+2020 6 17
+3 47 0
+
+223
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\223.jpg
+false
+2256745692
+-105.2144842
+39.7468539
+2020 6 17
+3 48 15
+
+224
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\224.jpg
+false
+5567263009
+-105.2050379
+39.7265208
+2020 6 17
+3 49 27
+
+225
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\225.jpg
+false
+322093957
+-105.2386779
+39.7626771
+2020 6 17
+3 50 54
+
+226
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\226.jpg
+false
+3725540746
+-105.1960258
+39.7362
+2020 6 17
+3 51 33
+
+227
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\227.jpg
+false
+4095441799
+-105.2132834
+39.7471297
+2020 6 17
+3 52 20
+
+228
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\228.jpg
+false
+7007194356
+-105.2259213
+39.7567281
+2020 6 17
+3 53 1
+
+229
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\229.jpg
+false
+6894388675
+-105.2228719
+39.7484526
+2020 6 17
+3 54 15
+
+230
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\230.jpg
+false
+7007153079
+-105.2226258
+39.7590867
+2020 6 17
+3 55 31
+
+231
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\231.jpg
+false
+6997933325
+-105.2304786
+39.7453602
+2020 6 17
+3 56 39
+
+232
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\232.jpg
+false
+1342742666
+-105.2161744
+39.7445212
+2020 6 17
+3 57 7
+
+233
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\233.jpg
+false
+7007239115
+-105.2351705
+39.7676349
+2020 6 17
+3 58 20
+
+234
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\234.jpg
+false
+5561697962
+-105.2204265
+39.7596201
+2020 6 17
+3 59 15
+
+235
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\235.jpg
+false
+177361651
+-105.2153532
+39.7629041
+2020 6 17
+4 0 2
+
+236
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\236.jpg
+false
+5558798263
+-105.2228927
+39.7506622
+2020 6 17
+4 1 22
+
+237
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\237.jpg
+false
+983939546
+-105.2261766
+39.7447067
+2020 6 17
+4 2 25
+
+238
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\238.jpg
+false
+4112106287
+-105.2218967
+39.756286
+2020 6 17
+4 3 17
+
+239
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\239.jpg
+false
+3666550359
+-105.2087864
+39.7287474
+2020 6 17
+4 4 15
+
+240
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\240.jpg
+true
+6906205275
+-105.2145483
+39.7486629
+2020 6 17
+4 5 40
+
+241
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\241.jpg
+false
+5558809138
+-105.2312578
+39.751268
+2020 6 17
+4 6 2
+
+242
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\242.jpg
+false
+5175657725
+-105.2231277
+39.7447158
+2020 6 17
+4 7 31
+
+243
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\243.jpg
+false
+559829891
+-105.2013771
+39.7262274
+2020 6 17
+4 8 58
+
+244
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\244.jpg
+false
+1054595736
+-105.200023
+39.7281052
+2020 6 17
+4 9 32
+
+245
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\245.jpg
+false
+1342736680
+-105.2010736
+39.7342665
+2020 6 17
+4 10 3
+
+246
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\246.jpg
+false
+3960515031
+-105.2210821
+39.7566546
+2020 6 17
+4 11 57
+
+247
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\247.jpg
+false
+506060340
+-105.2235007
+39.7614139
+2020 6 17
+4 12 17
+
+248
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\248.jpg
+false
+6986167189
+-105.2029672
+39.7444156
+2020 6 17
+4 13 39
+
+249
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\249.jpg
+false
+2524907347
+-105.2106615
+39.7440332
+2020 6 17
+4 14 46
+
+250
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\250.jpg
+false
+7126211037
+-105.2352195
+39.7625605
+2020 6 17
+4 15 43
+
+251
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\251.jpg
+false
+177353456
+-105.2229186
+39.7614242
+2020 6 17
+4 16 1
+
+252
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\252.jpg
+false
+3398383028
+-105.22514
+39.772784
+2020 6 17
+4 17 26
+
+253
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\253.jpg
+false
+6796283513
+-105.2030483
+39.7259546
+2020 6 17
+4 18 58
+
+254
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\254.jpg
+false
+5558798301
+-105.2262206
+39.7510556
+2020 6 17
+4 19 34
+
+255
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\255.jpg
+false
+5561697881
+-105.2208495
+39.7537642
+2020 6 17
+4 20 52
+
+256
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\256.jpg
+false
+4743351645
+-105.2219931
+39.7674082
+2020 6 17
+4 21 7
+
+257
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\257.jpg
+false
+2623984433
+-105.2186001
+39.7497605
+2020 6 17
+4 22 16
+
+258
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\258.jpg
+false
+817919319
+-105.1939633
+39.735098
+2020 6 17
+4 23 28
+
+259
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\259.jpg
+false
+3711282173
+-105.198019
+39.731572
+2020 6 17
+4 24 4
+
+260
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\260.jpg
+true
+1054571244
+-105.2001651
+39.7272656
+2020 6 17
+4 25 58
+
+261
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\261.jpg
+false
+7012988377
+-105.2226218
+39.7531409
+2020 6 17
+4 26 46
+
+262
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\262.jpg
+false
+177285643
+-105.2348394
+39.7627732
+2020 6 17
+4 27 43
+
+263
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\263.jpg
+false
+7057415748
+-105.2076316
+39.7277492
+2020 6 17
+4 28 10
+
+264
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\264.jpg
+false
+7020605561
+-105.2303325
+39.75253
+2020 6 17
+4 29 8
+
+265
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\265.jpg
+false
+985981019
+-105.2023479
+39.7265657
+2020 6 17
+4 30 18
+
+266
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\266.jpg
+false
+3697241099
+-105.1948007
+39.7393773
+2020 6 17
+4 31 50
+
+267
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\267.jpg
+false
+3398382832
+-105.2333992
+39.7507246
+2020 6 17
+4 32 6
+
+268
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\268.jpg
+false
+4112539368
+-105.2231171
+39.7511069
+2020 6 17
+4 33 42
+
+269
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\269.jpg
+false
+6997933404
+-105.2253535
+39.7431251
+2020 6 17
+4 34 58
+
+270
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\270.jpg
+false
+5008622078
+-105.2254043
+39.7443364
+2020 6 17
+4 35 5
+
+271
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\271.jpg
+false
+177249712
+-105.2260492
+39.7622111
+2020 6 17
+4 36 36
+
+272
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\272.jpg
+false
+4121920042
+-105.2311901
+39.7560237
+2020 6 17
+4 37 43
+
+273
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\273.jpg
+false
+6906205291
+-105.2153268
+39.7479845
+2020 6 17
+4 38 56
+
+274
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\274.jpg
+false
+4112325850
+-105.2176978
+39.7536829
+2020 6 17
+4 39 24
+
+275
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\275.jpg
+false
+1075436970
+-105.1947498
+39.7393714
+2020 6 17
+4 40 38
+
+276
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\276.jpg
+false
+818439150
+-105.2348809
+39.7677551
+2020 6 17
+4 41 16
+
+277
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\277.jpg
+false
+6047731000
+-105.2248148
+39.7463022
+2020 6 17
+4 42 25
+
+278
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\278.jpg
+false
+7007238987
+-105.2327733
+39.7658871
+2020 6 17
+4 43 4
+
+279
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\279.jpg
+false
+6796283499
+-105.2021984
+39.7293157
+2020 6 17
+4 44 29
+
+280
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\280.jpg
+true
+7030406738
+-105.2132092
+39.7450008
+2020 6 17
+4 45 57
+
+281
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\281.jpg
+false
+560142252
+-105.2213739
+39.7433042
+2020 6 17
+4 46 25
+
+282
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\282.jpg
+false
+5175657722
+-105.2245126
+39.7463349
+2020 6 17
+4 47 24
+
+283
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\283.jpg
+false
+177250347
+-105.2330942
+39.760743
+2020 6 17
+4 48 40
+
+284
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\284.jpg
+false
+3697179180
+-105.2104171
+39.7459575
+2020 6 17
+4 49 13
+
+285
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\285.jpg
+false
+1075495781
+-105.2197282
+39.7545392
+2020 6 17
+4 50 42
+
+286
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\286.jpg
+false
+3398382817
+-105.2334218
+39.7514959
+2020 6 17
+4 51 30
+
+287
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\287.jpg
+false
+7317509614
+-105.2294762
+39.7591924
+2020 6 17
+4 52 38
+
+288
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\288.jpg
+false
+1034931361
+-105.2228288
+39.7565094
+2020 6 17
+4 53 33
+
+289
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\289.jpg
+false
+3697752131
+-105.2166568
+39.7522203
+2020 6 17
+4 54 4
+
+290
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\290.jpg
+false
+3991349871
+-105.2202609
+39.7540677
+2020 6 17
+4 55 25
+
+291
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\291.jpg
+false
+580411014
+-105.2124515
+39.7359504
+2020 6 17
+4 56 4
+
+292
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\292.jpg
+false
+3729942886
+-105.2005431
+39.7356001
+2020 6 17
+4 57 27
+
+293
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\293.jpg
+false
+817919244
+-105.1969572
+39.739749
+2020 6 17
+4 58 46
+
+294
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\294.jpg
+false
+6047714692
+-105.2264703
+39.7487051
+2020 6 17
+4 59 38
+
+295
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\295.jpg
+false
+451150454
+-105.2250899
+39.760671
+2020 6 17
+5 0 25
+
+296
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\296.jpg
+false
+6986167180
+-105.2029417
+39.7441684
+2020 6 17
+5 1 29
+
+297
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\297.jpg
+false
+4015495204
+-105.223136
+39.7555643
+2020 6 17
+5 2 48
+
+298
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\298.jpg
+false
+2622973593
+-105.2223685
+39.7497309
+2020 6 17
+5 3 29
+
+299
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\299.jpg
+false
+7007229354
+-105.2341023
+39.7658207
+2020 6 17
+5 4 32
+
+300
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\300.jpg
+true
+5558798303
+-105.2267812
+39.7516866
+2020 6 17
+5 5 8
+
+301
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\301.jpg
+false
+4985392741
+-105.2030984
+39.7475142
+2020 6 17
+5 6 25
+
+302
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\302.jpg
+false
+4112416347
+-105.2270873
+39.7573349
+2020 6 17
+5 7 14
+
+303
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\303.jpg
+false
+5567263011
+-105.204865
+39.7258024
+2020 6 17
+5 8 55
+
+304
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\304.jpg
+false
+1342733892
+-105.1920588
+39.7373543
+2020 6 17
+5 9 7
+
+305
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\305.jpg
+false
+1342733853
+-105.1957843
+39.7390682
+2020 6 17
+5 10 50
+
+306
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\306.jpg
+false
+3711281619
+-105.1978429
+39.7311236
+2020 6 17
+5 11 35
+
+307
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\307.jpg
+false
+3723089149
+-105.2341181
+39.7505794
+2020 6 17
+5 12 50
+
+308
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\308.jpg
+false
+6215244202
+-105.232342
+39.7645647
+2020 6 17
+5 13 16
+
+309
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\309.jpg
+false
+1342742612
+-105.2007195
+39.7425579
+2020 6 17
+5 14 16
+
+310
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\310.jpg
+false
+3697751699
+-105.2153412
+39.7507945
+2020 6 17
+5 15 51
+
+311
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\311.jpg
+false
+5561697898
+-105.2239803
+39.7574547
+2020 6 17
+5 16 20
+
+312
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\312.jpg
+false
+4015494658
+-105.2233933
+39.7541942
+2020 6 17
+5 17 25
+
+313
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\313.jpg
+false
+5567263907
+-105.2054429
+39.7276182
+2020 6 17
+5 18 49
+
+314
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\314.jpg
+false
+2363991367
+-105.2207417
+39.7521255
+2020 6 17
+5 19 28
+
+315
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\315.jpg
+false
+4098330988
+-105.2153512
+39.7505976
+2020 6 17
+5 20 48
+
+316
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\316.jpg
+false
+2622973652
+-105.2233227
+39.7509769
+2020 6 17
+5 21 35
+
+317
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\317.jpg
+false
+6050192594
+-105.2328761
+39.7550746
+2020 6 17
+5 22 23
+
+318
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\318.jpg
+false
+5558798288
+-105.2215929
+39.7469727
+2020 6 17
+5 23 11
+
+319
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\319.jpg
+false
+6986220017
+-105.2093889
+39.7470814
+2020 6 17
+5 24 37
+
+320
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\320.jpg
+true
+3699219909
+-105.2071142
+39.7435813
+2020 6 17
+5 25 40
+
+321
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\321.jpg
+false
+6237374189
+-105.201021
+39.7431339
+2020 6 17
+5 26 14
+
+322
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\322.jpg
+false
+602914935
+-105.2349912
+39.7649043
+2020 6 17
+5 27 8
+
+323
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\323.jpg
+false
+3729933680
+-105.1997168
+39.727143
+2020 6 17
+5 28 26
+
+324
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\324.jpg
+false
+6923628856
+-105.2114229
+39.7481165
+2020 6 17
+5 29 14
+
+325
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\325.jpg
+false
+6894411120
+-105.2211204
+39.7466244
+2020 6 17
+5 30 23
+
+326
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\326.jpg
+false
+1054627423
+-105.1975178
+39.739846
+2020 6 17
+5 31 44
+
+327
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\327.jpg
+false
+4068927542
+-105.2228072
+39.7539768
+2020 6 17
+5 32 22
+
+328
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\328.jpg
+false
+6906205214
+-105.2170877
+39.7491862
+2020 6 17
+5 33 15
+
+329
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\329.jpg
+false
+580431462
+-105.2078073
+39.7447134
+2020 6 17
+5 34 17
+
+330
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\330.jpg
+false
+4095441886
+-105.2150926
+39.7481309
+2020 6 17
+5 35 20
+
+331
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\331.jpg
+false
+7007229380
+-105.2331495
+39.7660789
+2020 6 17
+5 36 53
+
+332
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\332.jpg
+false
+4121513493
+-105.2091236
+39.7473279
+2020 6 17
+5 37 45
+
+333
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\333.jpg
+false
+7127276566
+-105.2356204
+39.7630749
+2020 6 17
+5 38 20
+
+334
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\334.jpg
+false
+580430334
+-105.2203424
+39.7449712
+2020 6 17
+5 39 31
+
+335
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\335.jpg
+false
+5562885809
+-105.2348064
+39.7685302
+2020 6 17
+5 40 48
+
+336
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\336.jpg
+false
+7024891913
+-105.2077992
+39.7311049
+2020 6 17
+5 41 55
+
+337
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\337.jpg
+false
+5561698015
+-105.219503
+39.7572872
+2020 6 17
+5 42 59
+
+338
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\338.jpg
+false
+6050420727
+-105.2363817
+39.7554495
+2020 6 17
+5 43 55
+
+339
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\339.jpg
+false
+177365847
+-105.2378635
+39.7674047
+2020 6 17
+5 44 33
+
+340
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\340.jpg
+true
+3754473416
+-105.1948474
+39.7386313
+2020 6 17
+5 45 49
+
+341
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\341.jpg
+false
+6894388666
+-105.2212208
+39.7481256
+2020 6 17
+5 46 0
+
+342
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\342.jpg
+false
+3729934570
+-105.2011797
+39.7290542
+2020 6 17
+5 47 54
+
+343
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\343.jpg
+false
+322094575
+-105.2433504
+39.7663092
+2020 6 17
+5 48 10
+
+344
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\344.jpg
+false
+818439159
+-105.2360021
+39.7706702
+2020 6 17
+5 49 7
+
+345
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\345.jpg
+false
+4059390632
+-105.2396284
+39.7537145
+2020 6 17
+5 50 38
+
+346
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\346.jpg
+false
+6786440751
+-105.2176508
+39.7512509
+2020 6 17
+5 51 14
+
+347
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\347.jpg
+false
+6227628066
+-105.2148115
+39.7396276
+2020 6 17
+5 52 55
+
+348
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\348.jpg
+false
+3697752162
+-105.2174998
+39.7533305
+2020 6 17
+5 53 16
+
+349
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\349.jpg
+false
+7161426587
+-105.2135459
+39.750406
+2020 6 17
+5 54 59
+
+350
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\350.jpg
+false
+3708260958
+-105.2079937
+39.7342056
+2020 6 17
+5 55 49
+
+351
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\351.jpg
+false
+2256672266
+-105.2043083
+39.7319686
+2020 6 17
+5 56 10
+
+352
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\352.jpg
+false
+602914875
+-105.2358497
+39.7650129
+2020 6 17
+5 57 55
+
+353
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\353.jpg
+false
+580411118
+-105.2101987
+39.7349402
+2020 6 17
+5 58 44
+
+354
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\354.jpg
+false
+5725435773
+-105.2103877
+39.7353454
+2020 6 17
+5 59 8
+
+355
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\355.jpg
+false
+3960649292
+-105.2250689
+39.7591487
+2020 6 17
+6 0 37
+
+356
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\356.jpg
+false
+6050438911
+-105.2295506
+39.7505828
+2020 6 17
+6 1 55
+
+357
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\357.jpg
+false
+5175706485
+-105.2211032
+39.7473907
+2020 6 17
+6 2 10
+
+358
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\358.jpg
+false
+7021053673
+-105.2199269
+39.7487792
+2020 6 17
+6 3 48
+
+359
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\359.jpg
+false
+4121920037
+-105.2326526
+39.7558539
+2020 6 17
+6 4 52
+
+360
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\360.jpg
+true
+1342736743
+-105.2104043
+39.7355803
+2020 6 17
+6 5 48
+
+361
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\361.jpg
+false
+440476200
+-105.2270166
+39.7478183
+2020 6 17
+6 6 6
+
+362
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\362.jpg
+false
+3708260973
+-105.209281
+39.7347133
+2020 6 17
+6 7 20
+
+363
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\363.jpg
+false
+6906205238
+-105.2151135
+39.7489041
+2020 6 17
+6 8 16
+
+364
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\364.jpg
+false
+1828879365
+-105.2337589
+39.7523146
+2020 6 17
+6 9 43
+
+365
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\365.jpg
+false
+4059390662
+-105.2395449
+39.7534035
+2020 6 17
+6 10 59
+
+366
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\366.jpg
+false
+1313771243
+-105.2018645
+39.7404288
+2020 6 17
+6 11 30
+
+367
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\367.jpg
+false
+7030406740
+-105.2136766
+39.7447415
+2020 6 17
+6 12 23
+
+368
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\368.jpg
+false
+5175706506
+-105.223043
+39.7457709
+2020 6 17
+6 13 14
+
+369
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\369.jpg
+false
+6227627817
+-105.2131621
+39.7383513
+2020 6 17
+6 14 27
+
+370
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\370.jpg
+false
+602909631
+-105.2330029
+39.7589823
+2020 6 17
+6 15 12
+
+371
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\371.jpg
+false
+3711282156
+-105.1977525
+39.7314866
+2020 6 17
+6 16 25
+
+372
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\372.jpg
+false
+1013048652
+-105.2069304
+39.7672809
+2020 6 17
+6 17 35
+
+373
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\373.jpg
+false
+6986211962
+-105.2053638
+39.7452308
+2020 6 17
+6 18 7
+
+374
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\374.jpg
+false
+7161426614
+-105.2123536
+39.7493167
+2020 6 17
+6 19 10
+
+375
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\375.jpg
+false
+1342736559
+-105.2011621
+39.7359579
+2020 6 17
+6 20 25
+
+376
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\376.jpg
+false
+602918652
+-105.2238472
+39.7631492
+2020 6 17
+6 21 1
+
+377
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\377.jpg
+false
+602915056
+-105.235601
+39.7676546
+2020 6 17
+6 22 18
+
+378
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\378.jpg
+false
+3708223941
+-105.2108215
+39.7341964
+2020 6 17
+6 23 53
+
+379
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\379.jpg
+false
+6047705367
+-105.2230543
+39.7457588
+2020 6 17
+6 24 23
+
+380
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\380.jpg
+true
+6445556153
+-105.2222966
+39.7617141
+2020 6 17
+6 25 35
+
+381
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\381.jpg
+false
+6896488821
+-105.2168389
+39.7491522
+2020 6 17
+6 26 57
+
+382
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\382.jpg
+false
+817828651
+-105.200623
+39.7418878
+2020 6 17
+6 27 23
+
+383
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\383.jpg
+false
+7007239101
+-105.2371736
+39.7669248
+2020 6 17
+6 28 21
+
+384
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\384.jpg
+false
+5175748793
+-105.2232564
+39.7454178
+2020 6 17
+6 29 21
+
+385
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\385.jpg
+false
+5175702103
+-105.2247801
+39.7471899
+2020 6 17
+6 30 7
+
+386
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\386.jpg
+false
+177342372
+-105.221516
+39.7503762
+2020 6 17
+6 31 58
+
+387
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\387.jpg
+false
+439938813
+-105.2149301
+39.7354652
+2020 6 17
+6 32 5
+
+388
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\388.jpg
+false
+6997028835
+-105.2172547
+39.7501854
+2020 6 17
+6 33 57
+
+389
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\389.jpg
+false
+5175657732
+-105.2256807
+39.7478465
+2020 6 17
+6 34 28
+
+390
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\390.jpg
+false
+7007153065
+-105.2228706
+39.7592543
+2020 6 17
+6 35 52
+
+391
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\391.jpg
+false
+7317509525
+-105.2258061
+39.7585534
+2020 6 17
+6 36 5
+
+392
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\392.jpg
+false
+1036723235
+-105.2262784
+39.7638299
+2020 6 17
+6 37 54
+
+393
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\393.jpg
+false
+2363997572
+-105.223026
+39.7486731
+2020 6 17
+6 38 2
+
+394
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\394.jpg
+false
+5175706520
+-105.2213575
+39.7474068
+2020 6 17
+6 39 27
+
+395
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\395.jpg
+false
+4121920036
+-105.231597
+39.7558616
+2020 6 17
+6 40 52
+
+396
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\396.jpg
+false
+7020605550
+-105.2273143
+39.751202
+2020 6 17
+6 41 16
+
+397
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\397.jpg
+false
+6894388696
+-105.2226966
+39.7474194
+2020 6 17
+6 42 54
+
+398
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\398.jpg
+false
+6047522419
+-105.2216565
+39.7432694
+2020 6 17
+6 43 35
+
+399
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\399.jpg
+false
+1054627244
+-105.1973756
+39.7396459
+2020 6 17
+6 44 50
+
+400
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\400.jpg
+true
+1342736549
+-105.2009115
+39.7367321
+2020 6 17
+6 45 20
+
+401
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\401.jpg
+false
+7024891812
+-105.2093522
+39.7315107
+2020 6 17
+6 46 38
+
+402
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\402.jpg
+false
+2256672207
+-105.2065507
+39.7311497
+2020 6 17
+6 47 10
+
+403
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\403.jpg
+false
+536323204
+-105.2113546
+39.7363123
+2020 6 17
+6 48 18
+
+404
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\404.jpg
+false
+6307267151
+-105.2350459
+39.7689442
+2020 6 17
+6 49 31
+
+405
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\405.jpg
+false
+1313674494
+-105.2201066
+39.7429993
+2020 6 17
+6 50 46
+
+406
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\406.jpg
+false
+7117444885
+-105.2361978
+39.7636239
+2020 6 17
+6 51 50
+
+407
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\407.jpg
+false
+4029667368
+-105.2305691
+39.7561797
+2020 6 17
+6 52 13
+
+408
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\408.jpg
+false
+7317509588
+-105.2260403
+39.7620991
+2020 6 17
+6 53 54
+
+409
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\409.jpg
+false
+491637182
+-105.216143
+39.7570175
+2020 6 17
+6 54 22
+
+410
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\410.jpg
+false
+1342733589
+-105.1938414
+39.7380784
+2020 6 17
+6 55 35
+
+411
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\411.jpg
+false
+4147372411
+-105.2250271
+39.7550764
+2020 6 17
+6 56 51
+
+412
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\412.jpg
+false
+6048150986
+-105.2258429
+39.7494764
+2020 6 17
+6 57 27
+
+413
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\413.jpg
+false
+322094413
+-105.2431903
+39.7658609
+2020 6 17
+6 58 48
+
+414
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\414.jpg
+false
+6906205357
+-105.2129859
+39.7475034
+2020 6 17
+6 59 40
+
+415
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\415.jpg
+false
+3708208055
+-105.2061324
+39.7429074
+2020 6 17
+7 0 29
+
+416
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\416.jpg
+false
+4270104029
+-105.2022928
+39.7430673
+2020 6 17
+7 1 40
+
+417
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\417.jpg
+false
+6997884240
+-105.2240447
+39.7514546
+2020 6 17
+7 2 1
+
+418
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\418.jpg
+false
+5561698057
+-105.2161502
+39.7618267
+2020 6 17
+7 3 5
+
+419
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\419.jpg
+false
+177308862
+-105.2105489
+39.7524419
+2020 6 17
+7 4 44
+
+420
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\420.jpg
+true
+4929503010
+-105.2289977
+39.755746
+2020 6 17
+7 5 37
+
+421
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\421.jpg
+false
+177292872
+-105.2265213
+39.7684932
+2020 6 17
+7 6 8
+
+422
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\422.jpg
+false
+5567264464
+-105.199306
+39.7348894
+2020 6 17
+7 7 20
+
+423
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\423.jpg
+false
+3754473415
+-105.194648
+39.7386206
+2020 6 17
+7 8 11
+
+424
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\424.jpg
+false
+6047705747
+-105.2230623
+39.7455034
+2020 6 17
+7 9 40
+
+425
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\425.jpg
+false
+7127276635
+-105.2357009
+39.7597966
+2020 6 17
+7 10 52
+
+426
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\426.jpg
+false
+6906205301
+-105.2146784
+39.7485428
+2020 6 17
+7 11 33
+
+427
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\427.jpg
+false
+7012982780
+-105.2248585
+39.7540962
+2020 6 17
+7 12 29
+
+428
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\428.jpg
+false
+1075494814
+-105.2298492
+39.7562675
+2020 6 17
+7 13 45
+
+429
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\429.jpg
+false
+6050192638
+-105.2282335
+39.7589547
+2020 6 17
+7 14 26
+
+430
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\430.jpg
+false
+7161426596
+-105.2131321
+39.7499755
+2020 6 17
+7 15 0
+
+431
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\431.jpg
+false
+1342736541
+-105.2011165
+39.7360816
+2020 6 17
+7 16 49
+
+432
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\432.jpg
+false
+5558798262
+-105.2229061
+39.7506101
+2020 6 17
+7 17 33
+
+433
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\433.jpg
+false
+3398382826
+-105.232765
+39.7505777
+2020 6 17
+7 18 48
+
+434
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\434.jpg
+false
+3725540708
+-105.1951234
+39.7341083
+2020 6 17
+7 19 31
+
+435
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\435.jpg
+false
+3729942902
+-105.2006422
+39.7357634
+2020 6 17
+7 20 46
+
+436
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\436.jpg
+false
+6050192601
+-105.2332337
+39.7553098
+2020 6 17
+7 21 2
+
+437
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\437.jpg
+false
+2524913188
+-105.1988883
+39.7296157
+2020 6 17
+7 22 18
+
+438
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\438.jpg
+false
+1342736591
+-105.2009377
+39.7340593
+2020 6 17
+7 23 30
+
+439
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\439.jpg
+false
+3960515033
+-105.2211101
+39.7566962
+2020 6 17
+7 24 49
+
+440
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\440.jpg
+true
+3699208046
+-105.200215
+39.7381375
+2020 6 17
+7 25 27
+
+441
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\441.jpg
+false
+1342742593
+-105.1983411
+39.7416268
+2020 6 17
+7 26 11
+
+442
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\442.jpg
+false
+6986220091
+-105.2110498
+39.7486571
+2020 6 17
+7 27 29
+
+443
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\443.jpg
+false
+7024891959
+-105.209537
+39.7299214
+2020 6 17
+7 28 51
+
+444
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\444.jpg
+false
+602915061
+-105.2369475
+39.7684504
+2020 6 17
+7 29 28
+
+445
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\445.jpg
+false
+3708230037
+-105.2204514
+39.7461033
+2020 6 17
+7 30 33
+
+446
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\446.jpg
+false
+1034931284
+-105.2199125
+39.7586331
+2020 6 17
+7 31 23
+
+447
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\447.jpg
+false
+3649873295
+-105.221928
+39.7519901
+2020 6 17
+7 32 44
+
+448
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\448.jpg
+false
+3729933695
+-105.2004534
+39.7275462
+2020 6 17
+7 33 10
+
+449
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\449.jpg
+false
+4268837993
+-105.1972974
+39.7398385
+2020 6 17
+7 34 43
+
+450
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\450.jpg
+false
+7007239047
+-105.2364888
+39.7669118
+2020 6 17
+7 35 56
+
+451
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\451.jpg
+false
+3626531159
+-105.214104
+39.766232
+2020 6 17
+7 36 26
+
+452
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\452.jpg
+false
+559829868
+-105.2060167
+39.7295947
+2020 6 17
+7 37 7
+
+453
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\453.jpg
+false
+6997028852
+-105.2173579
+39.7502617
+2020 6 17
+7 38 52
+
+454
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\454.jpg
+false
+1313674496
+-105.2200513
+39.7427894
+2020 6 17
+7 39 0
+
+455
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\455.jpg
+false
+4147889071
+-105.2258014
+39.7489216
+2020 6 17
+7 40 44
+
+456
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\456.jpg
+false
+7020642760
+-105.2276097
+39.7534933
+2020 6 17
+7 41 35
+
+457
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\457.jpg
+false
+6906205299
+-105.2147649
+39.7483789
+2020 6 17
+7 42 53
+
+458
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\458.jpg
+false
+3717722183
+-105.2352031
+39.7643869
+2020 6 17
+7 43 34
+
+459
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\459.jpg
+false
+5558749560
+-105.2097707
+39.7483809
+2020 6 17
+7 44 2
+
+460
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\460.jpg
+true
+6050438786
+-105.2359583
+39.7528709
+2020 6 17
+7 45 44
+
+461
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\461.jpg
+false
+7127246176
+-105.2344564
+39.7624538
+2020 6 17
+7 46 13
+
+462
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\462.jpg
+false
+1075570004
+-105.2160003
+39.7514467
+2020 6 17
+7 47 54
+
+463
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\463.jpg
+false
+1313674471
+-105.2192992
+39.742789
+2020 6 17
+7 48 5
+
+464
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\464.jpg
+false
+6543802824
+-105.2112687
+39.7299183
+2020 6 17
+7 49 26
+
+465
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\465.jpg
+false
+1342733597
+-105.1998934
+39.7417567
+2020 6 17
+7 50 36
+
+466
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\466.jpg
+false
+3398382858
+-105.2339009
+39.7497619
+2020 6 17
+7 51 58
+
+467
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\467.jpg
+false
+4729866814
+-105.2229266
+39.7412715
+2020 6 17
+7 52 40
+
+468
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\468.jpg
+false
+1313752023
+-105.2050057
+39.7287756
+2020 6 17
+7 53 55
+
+469
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\469.jpg
+false
+580431603
+-105.2107554
+39.7384548
+2020 6 17
+7 54 45
+
+470
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\470.jpg
+false
+4270104030
+-105.2022035
+39.7431503
+2020 6 17
+7 55 8
+
+471
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\471.jpg
+false
+4147889008
+-105.2243699
+39.7481411
+2020 6 17
+7 56 13
+
+472
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\472.jpg
+false
+7007194309
+-105.2217296
+39.7571897
+2020 6 17
+7 57 16
+
+473
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\473.jpg
+false
+1313752028
+-105.2036409
+39.7276844
+2020 6 17
+7 58 23
+
+474
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\474.jpg
+false
+6048127468
+-105.2246263
+39.745928
+2020 6 17
+7 59 44
+
+475
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\475.jpg
+false
+560142265
+-105.2182431
+39.7396716
+2020 6 17
+8 0 22
+
+476
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\476.jpg
+false
+5008622623
+-105.2246962
+39.7421565
+2020 6 17
+8 1 51
+
+477
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\477.jpg
+false
+322094964
+-105.2476812
+39.7655456
+2020 6 17
+8 2 23
+
+478
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\478.jpg
+false
+1342703431
+-105.1981168
+39.7405209
+2020 6 17
+8 3 5
+
+479
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\479.jpg
+false
+2377566019
+-105.2097184
+39.7462386
+2020 6 17
+8 4 36
+
+480
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\480.jpg
+true
+177386140
+-105.2265842
+39.7470072
+2020 6 17
+8 5 51
+
+481
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\481.jpg
+false
+5561697869
+-105.2239982
+39.7533243
+2020 6 17
+8 6 36
+
+482
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\482.jpg
+false
+177385772
+-105.235507
+39.76146
+2020 6 17
+8 7 2
+
+483
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\483.jpg
+false
+5558749562
+-105.2099758
+39.7485593
+2020 6 17
+8 8 40
+
+484
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\484.jpg
+false
+439938811
+-105.2135676
+39.7338968
+2020 6 17
+8 9 37
+
+485
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\485.jpg
+false
+6050438888
+-105.2299529
+39.7506082
+2020 6 17
+8 10 54
+
+486
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\486.jpg
+false
+5008622096
+-105.2261075
+39.7430811
+2020 6 17
+8 11 2
+
+487
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\487.jpg
+false
+817828626
+-105.2005229
+39.742251
+2020 6 17
+8 12 14
+
+488
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\488.jpg
+false
+6986167163
+-105.2040723
+39.7458209
+2020 6 17
+8 13 37
+
+489
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\489.jpg
+false
+1342717219
+-105.1952224
+39.7385097
+2020 6 17
+8 14 23
+
+490
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\490.jpg
+false
+4023865262
+-105.2290615
+39.7556916
+2020 6 17
+8 15 25
+
+491
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\491.jpg
+false
+6997933305
+-105.2302855
+39.7467822
+2020 6 17
+8 16 6
+
+492
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\492.jpg
+false
+1342736546
+-105.1971892
+39.733016
+2020 6 17
+8 17 54
+
+493
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\493.jpg
+false
+580449618
+-105.2153094
+39.7347525
+2020 6 17
+8 18 47
+
+494
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\494.jpg
+false
+6050449620
+-105.2307381
+39.7508395
+2020 6 17
+8 19 17
+
+495
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\495.jpg
+false
+6997933434
+-105.2283751
+39.7427044
+2020 6 17
+8 20 1
+
+496
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\496.jpg
+false
+322094301
+-105.2412485
+39.7640188
+2020 6 17
+8 21 42
+
+497
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\497.jpg
+false
+1342742546
+-105.1986413
+39.7416509
+2020 6 17
+8 22 35
+
+498
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\498.jpg
+false
+177266575
+-105.2311998
+39.7725173
+2020 6 17
+8 23 18
+
+499
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\499.jpg
+false
+6065356793
+-105.2241077
+39.7508241
+2020 6 17
+8 24 41
+
+500
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\500.jpg
+true
+6997784972
+-105.223719
+39.7473285
+2020 6 17
+8 25 23
+
+501
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\501.jpg
+false
+6894388667
+-105.2211855
+39.7481262
+2020 6 17
+8 26 23
+
+502
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\502.jpg
+false
+7013002125
+-105.206277
+39.7457556
+2020 6 17
+8 27 9
+
+503
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\503.jpg
+false
+7317509553
+-105.2258525
+39.7604414
+2020 6 17
+8 28 39
+
+504
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\504.jpg
+false
+6395110621
+-105.2229108
+39.750838
+2020 6 17
+8 29 55
+
+505
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\505.jpg
+false
+3811422124
+-105.1973904
+39.7393746
+2020 6 17
+8 30 21
+
+506
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\506.jpg
+false
+4015494649
+-105.2249907
+39.7539704
+2020 6 17
+8 31 35
+
+507
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\507.jpg
+false
+3729934605
+-105.1996
+39.7307036
+2020 6 17
+8 32 14
+
+508
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\508.jpg
+false
+6047705362
+-105.2231014
+39.7455766
+2020 6 17
+8 33 34
+
+509
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\509.jpg
+false
+4743351634
+-105.2205621
+39.7670825
+2020 6 17
+8 34 2
+
+510
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\510.jpg
+false
+3746707314
+-105.1953817
+39.7403369
+2020 6 17
+8 35 17
+
+511
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\511.jpg
+false
+435021889
+-105.2228509
+39.7592477
+2020 6 17
+8 36 28
+
+512
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\512.jpg
+false
+2032099652
+-105.2306424
+39.754154
+2020 6 17
+8 37 25
+
+513
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\513.jpg
+false
+3960514911
+-105.2227588
+39.7553042
+2020 6 17
+8 38 48
+
+514
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\514.jpg
+false
+560220883
+-105.2001583
+39.7275866
+2020 6 17
+8 39 54
+
+515
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\515.jpg
+false
+602918727
+-105.226288
+39.7650625
+2020 6 17
+8 40 55
+
+516
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\516.jpg
+false
+2256762526
+-105.2314469
+39.7412899
+2020 6 17
+8 41 13
+
+517
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\517.jpg
+false
+6047705732
+-105.2220751
+39.7433492
+2020 6 17
+8 42 28
+
+518
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\518.jpg
+false
+5175704696
+-105.2211828
+39.7474378
+2020 6 17
+8 43 2
+
+519
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\519.jpg
+false
+7006618086
+-105.2256325
+39.7606956
+2020 6 17
+8 44 46
+
+520
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\520.jpg
+true
+7024937711
+-105.2044897
+39.7320239
+2020 6 17
+8 45 12
+
+521
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\521.jpg
+false
+7057424016
+-105.1993533
+39.7275014
+2020 6 17
+8 46 17
+
+522
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\522.jpg
+false
+3717627988
+-105.2327857
+39.7600815
+2020 6 17
+8 47 6
+
+523
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\523.jpg
+false
+3708207871
+-105.2058177
+39.7414174
+2020 6 17
+8 48 30
+
+524
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\524.jpg
+false
+7024891823
+-105.2095735
+39.7317593
+2020 6 17
+8 49 13
+
+525
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\525.jpg
+false
+462843527
+-105.2070966
+39.7480208
+2020 6 17
+8 50 1
+
+526
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\526.jpg
+false
+7021053942
+-105.2257057
+39.7462248
+2020 6 17
+8 51 9
+
+527
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\527.jpg
+false
+6986220086
+-105.2092664
+39.749842
+2020 6 17
+8 52 7
+
+528
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\528.jpg
+false
+7092458081
+-105.2146165
+39.742167
+2020 6 17
+8 53 18
+
+529
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\529.jpg
+false
+6047714636
+-105.2287763
+39.7507502
+2020 6 17
+8 54 48
+
+530
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\530.jpg
+false
+4743351616
+-105.218698
+39.7661702
+2020 6 17
+8 55 20
+
+531
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\531.jpg
+false
+6050438583
+-105.235034
+39.7523118
+2020 6 17
+8 56 46
+
+532
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\532.jpg
+false
+440476302
+-105.227954
+39.7473094
+2020 6 17
+8 57 12
+
+533
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\533.jpg
+false
+5175684684
+-105.2206589
+39.7471719
+2020 6 17
+8 58 15
+
+534
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\534.jpg
+false
+5983814431
+-105.2019918
+39.7321332
+2020 6 17
+8 59 22
+
+535
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\535.jpg
+false
+3708224000
+-105.2142471
+39.7368547
+2020 6 17
+9 0 7
+
+536
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\536.jpg
+false
+6796283545
+-105.2028507
+39.7262702
+2020 6 17
+9 1 57
+
+537
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\537.jpg
+false
+6050449613
+-105.2311661
+39.7497919
+2020 6 17
+9 2 51
+
+538
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\538.jpg
+false
+4226152402
+-105.2208043
+39.7618114
+2020 6 17
+9 3 17
+
+539
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\539.jpg
+false
+3807723032
+-105.2074214
+39.7471606
+2020 6 17
+9 4 48
+
+540
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\540.jpg
+true
+1342742697
+-105.2168235
+39.7435932
+2020 6 17
+9 5 18
+
+541
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\541.jpg
+false
+6047605046
+-105.2243019
+39.7452702
+2020 6 17
+9 6 27
+
+542
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\542.jpg
+false
+6997784994
+-105.2225856
+39.747921
+2020 6 17
+9 7 26
+
+543
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\543.jpg
+false
+177317838
+-105.2319057
+39.7421895
+2020 6 17
+9 8 6
+
+544
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\544.jpg
+false
+7310850334
+-105.2175162
+39.7549035
+2020 6 17
+9 9 20
+
+545
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\545.jpg
+false
+2285779222
+-105.2000721
+39.7296299
+2020 6 17
+9 10 38
+
+546
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\546.jpg
+false
+3755217237
+-105.1963638
+39.7422875
+2020 6 17
+9 11 10
+
+547
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\547.jpg
+false
+3991349860
+-105.2204189
+39.7535208
+2020 6 17
+9 12 17
+
+548
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\548.jpg
+false
+5558809124
+-105.2277897
+39.752264
+2020 6 17
+9 13 0
+
+549
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\549.jpg
+false
+559303564
+-105.1991092
+39.7309804
+2020 6 17
+9 14 19
+
+550
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\550.jpg
+false
+6914305313
+-105.2108878
+39.749459
+2020 6 17
+9 15 7
+
+551
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\551.jpg
+false
+7127276634
+-105.2358538
+39.7596605
+2020 6 17
+9 16 25
+
+552
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\552.jpg
+false
+602914899
+-105.2336121
+39.7639662
+2020 6 17
+9 17 15
+
+553
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\553.jpg
+false
+6986167176
+-105.2029008
+39.7444007
+2020 6 17
+9 18 35
+
+554
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\554.jpg
+false
+5558798259
+-105.222542
+39.7522843
+2020 6 17
+9 19 43
+
+555
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\555.jpg
+false
+7012994196
+-105.2257116
+39.7530044
+2020 6 17
+9 20 43
+
+556
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\556.jpg
+false
+5993814281
+-105.2211962
+39.7465318
+2020 6 17
+9 21 53
+
+557
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\557.jpg
+false
+1054595736
+-105.200023
+39.7281052
+2020 6 17
+9 22 45
+
+558
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\558.jpg
+false
+177330136
+-105.231838
+39.759105
+2020 6 17
+9 23 27
+
+559
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\559.jpg
+false
+7203050736
+-105.2280164
+39.7642994
+2020 6 17
+9 24 34
+
+560
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\560.jpg
+true
+5175706459
+-105.2212608
+39.7468274
+2020 6 17
+9 25 26
+
+561
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\561.jpg
+false
+6047705687
+-105.2221021
+39.7440819
+2020 6 17
+9 26 14
+
+562
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\562.jpg
+false
+6997920462
+-105.227897
+39.745934
+2020 6 17
+9 27 0
+
+563
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\563.jpg
+false
+7605377113
+-105.2114029
+39.7423565
+2020 6 17
+9 28 48
+
+564
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\564.jpg
+false
+5008622064
+-105.2244546
+39.7443567
+2020 6 17
+9 29 34
+
+565
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\565.jpg
+false
+4929550537
+-105.2175167
+39.7581229
+2020 6 17
+9 30 43
+
+566
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\566.jpg
+false
+1342733850
+-105.1960061
+39.7388789
+2020 6 17
+9 31 7
+
+567
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\567.jpg
+false
+6894388630
+-105.223806
+39.7509066
+2020 6 17
+9 32 54
+
+568
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\568.jpg
+false
+7024777907
+-105.2099799
+39.7295465
+2020 6 17
+9 33 55
+
+569
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\569.jpg
+false
+1075627066
+-105.216753
+39.7529805
+2020 6 17
+9 34 30
+
+570
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\570.jpg
+false
+6047670564
+-105.2256982
+39.7476698
+2020 6 17
+9 35 17
+
+571
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\571.jpg
+false
+2256672340
+-105.2031959
+39.7325343
+2020 6 17
+9 36 24
+
+572
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\572.jpg
+false
+177302461
+-105.209611
+39.7507515
+2020 6 17
+9 37 32
+
+573
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\573.jpg
+false
+7012994189
+-105.2248923
+39.7521537
+2020 6 17
+9 38 12
+
+574
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\574.jpg
+false
+5008624902
+-105.2238408
+39.7416126
+2020 6 17
+9 39 0
+
+575
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\575.jpg
+false
+3663134769
+-105.1940271
+39.7379277
+2020 6 17
+9 40 12
+
+576
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\576.jpg
+false
+5919496448
+-105.2119998
+39.7482781
+2020 6 17
+9 41 49
+
+577
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\577.jpg
+false
+3708208033
+-105.2065798
+39.7426959
+2020 6 17
+9 42 10
+
+578
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\578.jpg
+false
+6047617260
+-105.2244446
+39.7454488
+2020 6 17
+9 43 36
+
+579
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\579.jpg
+false
+3721565272
+-105.2123336
+39.7436837
+2020 6 17
+9 44 59
+
+580
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\580.jpg
+true
+5567264507
+-105.2114886
+39.7367376
+2020 6 17
+9 45 5
+
+581
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\581.jpg
+false
+580430730
+-105.2100419
+39.7416501
+2020 6 17
+9 46 16
+
+582
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\582.jpg
+false
+817919289
+-105.1979432
+39.7393859
+2020 6 17
+9 47 49
+
+583
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\583.jpg
+false
+435021906
+-105.2239462
+39.7684273
+2020 6 17
+9 48 50
+
+584
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\584.jpg
+false
+4112539593
+-105.2236
+39.7520066
+2020 6 17
+9 49 12
+
+585
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\585.jpg
+false
+3723089136
+-105.2328468
+39.7497564
+2020 6 17
+9 50 54
+
+586
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\586.jpg
+false
+4015495223
+-105.2226591
+39.7566328
+2020 6 17
+9 51 29
+
+587
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\587.jpg
+false
+1342733746
+-105.1944769
+39.7378083
+2020 6 17
+9 52 34
+
+588
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\588.jpg
+false
+1342733769
+-105.1960217
+39.7393168
+2020 6 17
+9 53 23
+
+589
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\589.jpg
+false
+5558809122
+-105.2276301
+39.7521155
+2020 6 17
+9 54 14
+
+590
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\590.jpg
+false
+7317509596
+-105.2290192
+39.7605192
+2020 6 17
+9 55 9
+
+591
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\591.jpg
+false
+6050449617
+-105.2278392
+39.7503823
+2020 6 17
+9 56 45
+
+592
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\592.jpg
+false
+6906205349
+-105.2123869
+39.7466682
+2020 6 17
+9 57 37
+
+593
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\593.jpg
+false
+6047651213
+-105.2211335
+39.7465805
+2020 6 17
+9 58 26
+
+594
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\594.jpg
+false
+3697241102
+-105.1976719
+39.7396143
+2020 6 17
+9 59 22
+
+595
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\595.jpg
+false
+559303572
+-105.2004922
+39.7301933
+2020 6 17
+10 0 59
+
+596
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\596.jpg
+false
+3754403986
+-105.195867
+39.7396703
+2020 6 17
+10 1 16
+
+597
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\597.jpg
+false
+4915684585
+-105.2090894
+39.7456064
+2020 6 17
+10 2 58
+
+598
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\598.jpg
+false
+7030431464
+-105.2187991
+39.7475475
+2020 6 17
+10 3 15
+
+599
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\599.jpg
+false
+7317509578
+-105.2261469
+39.7602899
+2020 6 17
+10 4 11
+
+600
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\600.jpg
+true
+1075436876
+-105.1936026
+39.7392506
+2020 6 17
+10 5 26
+
+601
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\601.jpg
+false
+7127276508
+-105.2375114
+39.7630115
+2020 6 17
+10 6 20
+
+602
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\602.jpg
+false
+177333890
+-105.2338758
+39.7577879
+2020 6 17
+10 7 5
+
+603
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\603.jpg
+false
+7013002121
+-105.2039623
+39.7447033
+2020 6 17
+10 8 54
+
+604
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\604.jpg
+false
+1054571302
+-105.2091988
+39.7303681
+2020 6 17
+10 9 30
+
+605
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\605.jpg
+false
+5567263124
+-105.2064246
+39.7260814
+2020 6 17
+10 10 7
+
+606
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\606.jpg
+false
+7127276520
+-105.2372216
+39.7648974
+2020 6 17
+10 11 27
+
+607
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\607.jpg
+false
+3697179152
+-105.21189
+39.7456471
+2020 6 17
+10 12 59
+
+608
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\608.jpg
+false
+2363991418
+-105.2227297
+39.7521221
+2020 6 17
+10 13 53
+
+609
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\609.jpg
+false
+2623984470
+-105.2205169
+39.7484591
+2020 6 17
+10 14 46
+
+610
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\610.jpg
+false
+3398383040
+-105.222614
+39.7707216
+2020 6 17
+10 15 4
+
+611
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\611.jpg
+false
+3729933703
+-105.2011905
+39.7276467
+2020 6 17
+10 16 55
+
+612
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\612.jpg
+false
+5567264021
+-105.2109093
+39.7298935
+2020 6 17
+10 17 41
+
+613
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\613.jpg
+false
+7012994202
+-105.2246463
+39.7535907
+2020 6 17
+10 18 45
+
+614
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\614.jpg
+false
+7024937747
+-105.2054355
+39.7318952
+2020 6 17
+10 19 17
+
+615
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\615.jpg
+false
+818439083
+-105.2382779
+39.765817
+2020 6 17
+10 20 45
+
+616
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\616.jpg
+false
+177317838
+-105.2319057
+39.7421895
+2020 6 17
+10 21 6
+
+617
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\617.jpg
+false
+2524913170
+-105.1987354
+39.727064
+2020 6 17
+10 22 1
+
+618
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\618.jpg
+false
+983941417
+-105.2264716
+39.7438467
+2020 6 17
+10 23 47
+
+619
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\619.jpg
+false
+6997784981
+-105.2237222
+39.7476287
+2020 6 17
+10 24 35
+
+620
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\620.jpg
+true
+7127246178
+-105.234616
+39.7627213
+2020 6 17
+10 25 29
+
+621
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\621.jpg
+false
+5175706448
+-105.2210787
+39.7473487
+2020 6 17
+10 26 44
+
+622
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\622.jpg
+false
+451150449
+-105.2184092
+39.7624828
+2020 6 17
+10 27 13
+
+623
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\623.jpg
+false
+560220895
+-105.2006711
+39.7275908
+2020 6 17
+10 28 47
+
+624
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\624.jpg
+false
+6048150986
+-105.2258429
+39.7494764
+2020 6 17
+10 29 39
+
+625
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\625.jpg
+false
+5008624907
+-105.2240612
+39.7414618
+2020 6 17
+10 30 58
+
+626
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\626.jpg
+false
+7317509649
+-105.2319029
+39.7578795
+2020 6 17
+10 31 42
+
+627
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\627.jpg
+false
+6997055229
+-105.2164015
+39.7483219
+2020 6 17
+10 32 31
+
+628
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\628.jpg
+false
+3717741153
+-105.2338986
+39.7657627
+2020 6 17
+10 33 39
+
+629
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\629.jpg
+false
+5175704700
+-105.2218227
+39.7477228
+2020 6 17
+10 34 31
+
+630
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\630.jpg
+false
+4059389986
+-105.213472
+39.7546274
+2020 6 17
+10 35 9
+
+631
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\631.jpg
+false
+7550268106
+-105.2211731
+39.7588335
+2020 6 17
+10 36 25
+
+632
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\632.jpg
+false
+4023865276
+-105.2293589
+39.7560412
+2020 6 17
+10 37 10
+
+633
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\633.jpg
+false
+177365622
+-105.2368737
+39.7683318
+2020 6 17
+10 38 17
+
+634
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\634.jpg
+false
+7007153093
+-105.2232151
+39.7575864
+2020 6 17
+10 39 26
+
+635
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\635.jpg
+false
+2377566007
+-105.2083911
+39.7419049
+2020 6 17
+10 40 12
+
+636
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\636.jpg
+false
+3960514998
+-105.2205368
+39.756257
+2020 6 17
+10 41 18
+
+637
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\637.jpg
+false
+5175681526
+-105.2235794
+39.7446631
+2020 6 17
+10 42 46
+
+638
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\638.jpg
+false
+177381968
+-105.2383053
+39.765178
+2020 6 17
+10 43 17
+
+639
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\639.jpg
+false
+6796283546
+-105.2028669
+39.7262717
+2020 6 17
+10 44 35
+
+640
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\640.jpg
+true
+985981019
+-105.2023479
+39.7265657
+2020 6 17
+10 45 24
+
+641
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\641.jpg
+false
+3717628170
+-105.2314
+39.7616521
+2020 6 17
+10 46 36
+
+642
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\642.jpg
+false
+6997884244
+-105.2236987
+39.7510757
+2020 6 17
+10 47 41
+
+643
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\643.jpg
+false
+7127276342
+-105.23646
+39.7590914
+2020 6 17
+10 48 9
+
+644
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\644.jpg
+false
+602918696
+-105.2261834
+39.7659635
+2020 6 17
+10 49 4
+
+645
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\645.jpg
+false
+6997784894
+-105.2198611
+39.7487496
+2020 6 17
+10 50 19
+
+646
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\646.jpg
+false
+1313745833
+-105.2095418
+39.7305016
+2020 6 17
+10 51 9
+
+647
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\647.jpg
+false
+7117386870
+-105.2358471
+39.7633187
+2020 6 17
+10 52 36
+
+648
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\648.jpg
+false
+2256745772
+-105.2046007
+39.7311043
+2020 6 17
+10 53 32
+
+649
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\649.jpg
+false
+1013048609
+-105.2289755
+39.7685406
+2020 6 17
+10 54 25
+
+650
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\650.jpg
+false
+1054627254
+-105.1972658
+39.7392598
+2020 6 17
+10 55 12
+
+651
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\651.jpg
+false
+6047714679
+-105.226437
+39.7485529
+2020 6 17
+10 56 42
+
+652
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\652.jpg
+false
+3398382810
+-105.2345054
+39.7523372
+2020 6 17
+10 57 22
+
+653
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\653.jpg
+false
+6307267159
+-105.2339914
+39.7688289
+2020 6 17
+10 58 0
+
+654
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\654.jpg
+false
+7002977193
+-105.2194776
+39.7525037
+2020 6 17
+10 59 45
+
+655
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\655.jpg
+false
+3398383007
+-105.222912
+39.771488
+2020 6 17
+11 0 1
+
+656
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\656.jpg
+false
+5561697942
+-105.2251741
+39.7595089
+2020 6 17
+11 1 43
+
+657
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\657.jpg
+false
+322094775
+-105.2458345
+39.7654048
+2020 6 17
+11 2 58
+
+658
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\658.jpg
+false
+6997055201
+-105.2144001
+39.7480659
+2020 6 17
+11 3 23
+
+659
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\659.jpg
+false
+3960514941
+-105.2230412
+39.7556092
+2020 6 17
+11 4 0
+
+660
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\660.jpg
+true
+3708223997
+-105.2140236
+39.7367742
+2020 6 17
+11 5 41
+
+661
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\661.jpg
+false
+322095102
+-105.2509619
+39.7651497
+2020 6 17
+11 6 50
+
+662
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\662.jpg
+false
+1342687719
+-105.1976763
+39.7429535
+2020 6 17
+11 7 45
+
+663
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\663.jpg
+false
+440478136
+-105.230933
+39.7459508
+2020 6 17
+11 8 3
+
+664
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\664.jpg
+false
+1313755592
+-105.2007949
+39.7336162
+2020 6 17
+11 9 54
+
+665
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\665.jpg
+false
+7012983563
+-105.2224863
+39.7499572
+2020 6 17
+11 10 45
+
+666
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\666.jpg
+false
+1054627584
+-105.1985104
+39.7407098
+2020 6 17
+11 11 14
+
+667
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\667.jpg
+false
+177249741
+-105.2149515
+39.7502879
+2020 6 17
+11 12 49
+
+668
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\668.jpg
+false
+6894388621
+-105.2241694
+39.7506916
+2020 6 17
+11 13 55
+
+669
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\669.jpg
+false
+7007180661
+-105.2225536
+39.7621737
+2020 6 17
+11 14 59
+
+670
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\670.jpg
+false
+3819962161
+-105.2253244
+39.7691517
+2020 6 17
+11 15 9
+
+671
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\671.jpg
+false
+7127276639
+-105.235025
+39.7607687
+2020 6 17
+11 16 45
+
+672
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\672.jpg
+false
+5558798247
+-105.2196644
+39.7520932
+2020 6 17
+11 17 7
+
+673
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\673.jpg
+false
+6986220037
+-105.2095383
+39.7467332
+2020 6 17
+11 18 12
+
+674
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\674.jpg
+false
+388452720
+-105.2254487
+39.7485973
+2020 6 17
+11 19 43
+
+675
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\675.jpg
+false
+5561697723
+-105.2285923
+39.7614474
+2020 6 17
+11 20 29
+
+676
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\676.jpg
+false
+7024777916
+-105.2097998
+39.7290431
+2020 6 17
+11 21 37
+
+677
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\677.jpg
+false
+7057417061
+-105.2077429
+39.7278797
+2020 6 17
+11 22 10
+
+678
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\678.jpg
+false
+322094031
+-105.2393741
+39.7621103
+2020 6 17
+11 23 42
+
+679
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\679.jpg
+false
+440476230
+-105.2295625
+39.7482478
+2020 6 17
+11 24 53
+
+680
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\680.jpg
+true
+4015494609
+-105.2262366
+39.7527918
+2020 6 17
+11 25 44
+
+681
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\681.jpg
+false
+1342717163
+-105.1963883
+39.7390429
+2020 6 17
+11 26 51
+
+682
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\682.jpg
+false
+3708223912
+-105.2109519
+39.7335778
+2020 6 17
+11 27 29
+
+683
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\683.jpg
+false
+7317509527
+-105.2257244
+39.7584769
+2020 6 17
+11 28 37
+
+684
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\684.jpg
+false
+177305044
+-105.1944702
+39.740291
+2020 6 17
+11 29 33
+
+685
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\685.jpg
+false
+3424286137
+-105.229558
+39.748726
+2020 6 17
+11 30 51
+
+686
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\686.jpg
+false
+6050319251
+-105.2361836
+39.7542762
+2020 6 17
+11 31 53
+
+687
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\687.jpg
+false
+6997785156
+-105.2248929
+39.748766
+2020 6 17
+11 32 39
+
+688
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\688.jpg
+false
+6997749181
+-105.2212149
+39.7492137
+2020 6 17
+11 33 20
+
+689
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\689.jpg
+false
+7020605216
+-105.2276754
+39.7526065
+2020 6 17
+11 34 43
+
+690
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\690.jpg
+false
+6914305407
+-105.209149
+39.7473988
+2020 6 17
+11 35 7
+
+691
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\691.jpg
+false
+2622973638
+-105.2229567
+39.7512783
+2020 6 17
+11 36 2
+
+692
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\692.jpg
+false
+2256672232
+-105.2039945
+39.7292045
+2020 6 17
+11 37 57
+
+693
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\693.jpg
+false
+983941064
+-105.2273406
+39.744088
+2020 6 17
+11 38 46
+
+694
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\694.jpg
+false
+4068907662
+-105.2225427
+39.754744
+2020 6 17
+11 39 39
+
+695
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\695.jpg
+false
+985981004
+-105.201511
+39.7259176
+2020 6 17
+11 40 52
+
+696
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\696.jpg
+false
+1054571310
+-105.2096804
+39.7303105
+2020 6 17
+11 41 35
+
+697
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\697.jpg
+false
+4068927550
+-105.2231948
+39.7543887
+2020 6 17
+11 42 10
+
+698
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\698.jpg
+false
+6997933294
+-105.2275343
+39.7467368
+2020 6 17
+11 43 40
+
+699
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\699.jpg
+false
+580431355
+-105.2027051
+39.7414879
+2020 6 17
+11 44 22
+
+700
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\700.jpg
+true
+7024777917
+-105.2105458
+39.7292066
+2020 6 17
+11 45 9
+
+701
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\701.jpg
+false
+3717741280
+-105.2344004
+39.7671489
+2020 6 17
+11 46 26
+
+702
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\702.jpg
+false
+1313749058
+-105.2062059
+39.7292546
+2020 6 17
+11 47 45
+
+703
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\703.jpg
+false
+3398382836
+-105.2336312
+39.7505927
+2020 6 17
+11 48 13
+
+704
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\704.jpg
+false
+6047705347
+-105.2238504
+39.7453253
+2020 6 17
+11 49 38
+
+705
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\705.jpg
+false
+7012994187
+-105.2247479
+39.7522243
+2020 6 17
+11 50 56
+
+706
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\706.jpg
+false
+3398382867
+-105.2339213
+39.7494337
+2020 6 17
+11 51 43
+
+707
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\707.jpg
+false
+4112539498
+-105.2228891
+39.7513366
+2020 6 17
+11 52 58
+
+708
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\708.jpg
+false
+4098330949
+-105.2126833
+39.7477368
+2020 6 17
+11 53 52
+
+709
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\709.jpg
+false
+506060308
+-105.2177712
+39.7628718
+2020 6 17
+11 54 43
+
+710
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\710.jpg
+false
+7127246137
+-105.2354863
+39.7615873
+2020 6 17
+11 55 49
+
+711
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\711.jpg
+false
+5558798239
+-105.2152117
+39.7505675
+2020 6 17
+11 56 53
+
+712
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\712.jpg
+false
+177339654
+-105.2313109
+39.7756727
+2020 6 17
+11 57 36
+
+713
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\713.jpg
+false
+3729934568
+-105.2011866
+39.7289811
+2020 6 17
+11 58 46
+
+714
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\714.jpg
+false
+4743351626
+-105.2194088
+39.7665073
+2020 6 17
+11 59 42
+
+715
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\715.jpg
+false
+1013048619
+-105.223327
+39.761735
+2020 6 17
+12 0 31
+
+716
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\716.jpg
+false
+4743351624
+-105.2193431
+39.7664527
+2020 6 17
+12 1 57
+
+717
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\717.jpg
+false
+5175706466
+-105.2213317
+39.7474235
+2020 6 17
+12 2 38
+
+718
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\718.jpg
+false
+7024937737
+-105.2060109
+39.7318457
+2020 6 17
+12 3 55
+
+719
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\719.jpg
+false
+5993763987
+-105.2093061
+39.7294203
+2020 6 17
+12 4 11
+
+720
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\720.jpg
+true
+1075436372
+-105.1939934
+39.739819
+2020 6 17
+12 5 30
+
+721
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\721.jpg
+false
+580430397
+-105.218225
+39.7451346
+2020 6 17
+12 6 7
+
+722
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\722.jpg
+false
+6047508027
+-105.2290007
+39.7533802
+2020 6 17
+12 7 49
+
+723
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\723.jpg
+false
+6050319283
+-105.2364957
+39.7542762
+2020 6 17
+12 8 45
+
+724
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\724.jpg
+false
+7024891825
+-105.2094696
+39.7318671
+2020 6 17
+12 9 43
+
+725
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\725.jpg
+false
+413774522
+-105.2116219
+39.7654328
+2020 6 17
+12 10 10
+
+726
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\726.jpg
+false
+6050219759
+-105.235182
+39.7549974
+2020 6 17
+12 11 2
+
+727
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\727.jpg
+false
+598059944
+-105.232447
+39.7581574
+2020 6 17
+12 12 42
+
+728
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\728.jpg
+false
+3699179755
+-105.2000112
+39.7360905
+2020 6 17
+12 13 19
+
+729
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\729.jpg
+false
+7024891829
+-105.2095199
+39.7321749
+2020 6 17
+12 14 26
+
+730
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\730.jpg
+false
+7020609799
+-105.2269898
+39.7538487
+2020 6 17
+12 15 9
+
+731
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\731.jpg
+false
+6905902735
+-105.2057654
+39.7462233
+2020 6 17
+12 16 7
+
+732
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\732.jpg
+false
+4098333013
+-105.2162666
+39.7516327
+2020 6 17
+12 17 49
+
+733
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\733.jpg
+false
+1342742765
+-105.2164533
+39.7435746
+2020 6 17
+12 18 5
+
+734
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\734.jpg
+false
+3960631737
+-105.2207383
+39.7545885
+2020 6 17
+12 19 57
+
+735
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\735.jpg
+false
+3729942859
+-105.1986144
+39.734239
+2020 6 17
+12 20 22
+
+736
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\736.jpg
+false
+580430395
+-105.2179407
+39.7451098
+2020 6 17
+12 21 32
+
+737
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\737.jpg
+false
+4059390308
+-105.2133676
+39.7552369
+2020 6 17
+12 22 36
+
+738
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\738.jpg
+false
+7317509543
+-105.2249281
+39.7594174
+2020 6 17
+12 23 30
+
+739
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\739.jpg
+false
+5561697843
+-105.2262595
+39.7564871
+2020 6 17
+12 24 26
+
+740
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\740.jpg
+true
+2622999669
+-105.2234904
+39.7517844
+2020 6 17
+12 25 35
+
+741
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\741.jpg
+false
+3697241097
+-105.196445
+39.7392843
+2020 6 17
+12 26 6
+
+742
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\742.jpg
+false
+6906253418
+-105.2246093
+39.7454009
+2020 6 17
+12 27 0
+
+743
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\743.jpg
+false
+177318864
+-105.2269013
+39.7648357
+2020 6 17
+12 28 2
+
+744
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\744.jpg
+false
+3708230025
+-105.2220351
+39.7458906
+2020 6 17
+12 29 42
+
+745
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\745.jpg
+false
+6997055232
+-105.2163995
+39.7482352
+2020 6 17
+12 30 56
+
+746
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\746.jpg
+false
+3708329170
+-105.2318695
+39.7530567
+2020 6 17
+12 31 10
+
+747
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\747.jpg
+false
+2659145380
+-105.2168488
+39.7587614
+2020 6 17
+12 32 24
+
+748
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\748.jpg
+false
+413774488
+-105.2051629
+39.7677551
+2020 6 17
+12 33 57
+
+749
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\749.jpg
+false
+7007238996
+-105.2329436
+39.7652521
+2020 6 17
+12 34 53
+
+750
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\750.jpg
+false
+1342733782
+-105.1984907
+39.7408203
+2020 6 17
+12 35 18
+
+751
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\751.jpg
+false
+6914275654
+-105.2095304
+39.7487902
+2020 6 17
+12 36 57
+
+752
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\752.jpg
+false
+1342733608
+-105.196019
+39.7392508
+2020 6 17
+12 37 37
+
+753
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\753.jpg
+false
+3960514892
+-105.2222133
+39.7550261
+2020 6 17
+12 38 14
+
+754
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\754.jpg
+false
+6047617250
+-105.2233879
+39.7454794
+2020 6 17
+12 39 40
+
+755
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\755.jpg
+false
+3717628165
+-105.2329322
+39.7615868
+2020 6 17
+12 40 20
+
+756
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\756.jpg
+false
+5175681548
+-105.2223171
+39.7512473
+2020 6 17
+12 41 57
+
+757
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\757.jpg
+false
+985981100
+-105.2009694
+39.7254634
+2020 6 17
+12 42 19
+
+758
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\758.jpg
+false
+7012996338
+-105.2144283
+39.7513005
+2020 6 17
+12 43 47
+
+759
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\759.jpg
+false
+177284396
+-105.2284554
+39.7578204
+2020 6 17
+12 44 48
+
+760
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\760.jpg
+true
+5567264511
+-105.2116817
+39.7369768
+2020 6 17
+12 45 24
+
+761
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\761.jpg
+false
+1075495785
+-105.220057
+39.7548934
+2020 6 17
+12 46 33
+
+762
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\762.jpg
+false
+6543802795
+-105.2107879
+39.7300529
+2020 6 17
+12 47 25
+
+763
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\763.jpg
+false
+1342733701
+-105.2001696
+39.7422919
+2020 6 17
+12 48 33
+
+764
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\764.jpg
+false
+6786452521
+-105.2189994
+39.7528896
+2020 6 17
+12 49 38
+
+765
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\765.jpg
+false
+6986220039
+-105.2095383
+39.7467053
+2020 6 17
+12 50 49
+
+766
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\766.jpg
+false
+2524907357
+-105.2122955
+39.744141
+2020 6 17
+12 51 48
+
+767
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\767.jpg
+false
+3729933686
+-105.1994864
+39.7273534
+2020 6 17
+12 52 42
+
+768
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\768.jpg
+false
+322094521
+-105.2431158
+39.7664007
+2020 6 17
+12 53 18
+
+769
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\769.jpg
+false
+1446962825
+-105.2249263
+39.7540588
+2020 6 17
+12 54 57
+
+770
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\770.jpg
+false
+3398383052
+-105.2238494
+39.7703144
+2020 6 17
+12 55 10
+
+771
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\771.jpg
+false
+7007152995
+-105.2200053
+39.7583774
+2020 6 17
+12 56 2
+
+772
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\772.jpg
+false
+580430715
+-105.2098711
+39.7410113
+2020 6 17
+12 57 41
+
+773
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\773.jpg
+false
+491511247
+-105.2200825
+39.7591697
+2020 6 17
+12 58 41
+
+774
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\774.jpg
+false
+4929503008
+-105.2274286
+39.7566122
+2020 6 17
+12 59 31
+
+775
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\775.jpg
+false
+6786450870
+-105.2191718
+39.752897
+2020 6 17
+13 0 35
+
+776
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\776.jpg
+false
+6997886120
+-105.2187983
+39.7508035
+2020 6 17
+13 1 20
+
+777
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\777.jpg
+false
+6048150985
+-105.2234067
+39.7488251
+2020 6 17
+13 2 56
+
+778
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\778.jpg
+false
+602909541
+-105.2327937
+39.7589653
+2020 6 17
+13 3 31
+
+779
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\779.jpg
+false
+3398383032
+-105.224429
+39.772757
+2020 6 17
+13 4 49
+
+780
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\780.jpg
+true
+818439078
+-105.2330691
+39.7591368
+2020 6 17
+13 5 23
+
+781
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\781.jpg
+false
+440476179
+-105.2261712
+39.7473186
+2020 6 17
+13 6 41
+
+782
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\782.jpg
+false
+6986220033
+-105.2093951
+39.7467726
+2020 6 17
+13 7 41
+
+783
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\783.jpg
+false
+2622973656
+-105.2230187
+39.7515419
+2020 6 17
+13 8 43
+
+784
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\784.jpg
+false
+5567264493
+-105.2120304
+39.736655
+2020 6 17
+13 9 33
+
+785
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\785.jpg
+false
+4112415904
+-105.2272206
+39.7538273
+2020 6 17
+13 10 51
+
+786
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\786.jpg
+false
+3398382869
+-105.2338379
+39.7493587
+2020 6 17
+13 11 13
+
+787
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\787.jpg
+false
+7020609835
+-105.2281343
+39.7523962
+2020 6 17
+13 12 32
+
+788
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\788.jpg
+false
+177268692
+-105.2264382
+39.7668779
+2020 6 17
+13 13 18
+
+789
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\789.jpg
+false
+4059390657
+-105.2384342
+39.7533774
+2020 6 17
+13 14 35
+
+790
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\790.jpg
+false
+6047705338
+-105.2238644
+39.7450291
+2020 6 17
+13 15 28
+
+791
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\791.jpg
+false
+3697752143
+-105.2173917
+39.7525952
+2020 6 17
+13 16 29
+
+792
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\792.jpg
+false
+6047705353
+-105.2238719
+39.7450644
+2020 6 17
+13 17 23
+
+793
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\793.jpg
+false
+177333890
+-105.2338758
+39.7577879
+2020 6 17
+13 18 5
+
+794
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\794.jpg
+false
+6340896653
+-105.1942832
+39.7399889
+2020 6 17
+13 19 31
+
+795
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\795.jpg
+false
+3717741304
+-105.2338641
+39.7675248
+2020 6 17
+13 20 49
+
+796
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\796.jpg
+false
+388455106
+-105.2212819
+39.7518286
+2020 6 17
+13 21 18
+
+797
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\797.jpg
+false
+7161426669
+-105.212009
+39.7507344
+2020 6 17
+13 22 53
+
+798
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\798.jpg
+false
+4098330975
+-105.2161346
+39.750204
+2020 6 17
+13 23 34
+
+799
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\799.jpg
+false
+1313771286
+-105.2012326
+39.7414758
+2020 6 17
+13 24 19
+
+800
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\800.jpg
+true
+6796283501
+-105.2032008
+39.726493
+2020 6 17
+13 25 29
+
+801
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\801.jpg
+false
+7007239026
+-105.237034
+39.7684653
+2020 6 17
+13 26 11
+
+802
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\802.jpg
+false
+3398383023
+-105.226167
+39.774056
+2020 6 17
+13 27 10
+
+803
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\803.jpg
+false
+4059390292
+-105.2133048
+39.7548253
+2020 6 17
+13 28 45
+
+804
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\804.jpg
+false
+177279284
+-105.2049939
+39.7222949
+2020 6 17
+13 29 22
+
+805
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\805.jpg
+false
+3987145430
+-105.2222497
+39.7548251
+2020 6 17
+13 30 39
+
+806
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\806.jpg
+false
+817919299
+-105.1984582
+39.7399964
+2020 6 17
+13 31 16
+
+807
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\807.jpg
+false
+2256745745
+-105.2033429
+39.7313977
+2020 6 17
+13 32 3
+
+808
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\808.jpg
+false
+1357041057
+-105.2007871
+39.7359716
+2020 6 17
+13 33 32
+
+809
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\809.jpg
+false
+177383366
+-105.2314865
+39.7582074
+2020 6 17
+13 34 42
+
+810
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\810.jpg
+false
+3754404021
+-105.1987957
+39.7403367
+2020 6 17
+13 35 44
+
+811
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\811.jpg
+false
+2377550274
+-105.199189
+39.7281482
+2020 6 17
+13 36 11
+
+812
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\812.jpg
+false
+5567263890
+-105.2075967
+39.7302875
+2020 6 17
+13 37 38
+
+813
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\813.jpg
+false
+7024891846
+-105.2092639
+39.7320405
+2020 6 17
+13 38 20
+
+814
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\814.jpg
+false
+6786476413
+-105.2174833
+39.7512552
+2020 6 17
+13 39 56
+
+815
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\815.jpg
+false
+6997785166
+-105.2244189
+39.7479881
+2020 6 17
+13 40 9
+
+816
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\816.jpg
+false
+1034931304
+-105.2223453
+39.7570266
+2020 6 17
+13 41 42
+
+817
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\817.jpg
+false
+322211345
+-105.230105
+39.7494838
+2020 6 17
+13 42 58
+
+818
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\818.jpg
+false
+1342736559
+-105.2011621
+39.7359579
+2020 6 17
+13 43 22
+
+819
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\819.jpg
+false
+5561698060
+-105.2169335
+39.7609048
+2020 6 17
+13 44 13
+
+820
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\820.jpg
+true
+490273016
+-105.2177542
+39.7545954
+2020 6 17
+13 45 15
+
+821
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\821.jpg
+false
+7012994203
+-105.2245878
+39.7535332
+2020 6 17
+13 46 49
+
+822
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\822.jpg
+false
+7143775078
+-105.1952002
+39.732736
+2020 6 17
+13 47 24
+
+823
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\823.jpg
+false
+3956017383
+-105.2250592
+39.754858
+2020 6 17
+13 48 36
+
+824
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\824.jpg
+false
+5008624863
+-105.2248115
+39.7423395
+2020 6 17
+13 49 4
+
+825
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\825.jpg
+false
+6760935905
+-105.2039627
+39.736619
+2020 6 17
+13 50 42
+
+826
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\826.jpg
+false
+7317509503
+-105.2262253
+39.7572882
+2020 6 17
+13 51 51
+
+827
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\827.jpg
+false
+7057415810
+-105.2094796
+39.7269354
+2020 6 17
+13 52 20
+
+828
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\828.jpg
+false
+177368749
+-105.2212387
+39.7640132
+2020 6 17
+13 53 36
+
+829
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\829.jpg
+false
+6050438872
+-105.2333973
+39.7511842
+2020 6 17
+13 54 30
+
+830
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\830.jpg
+false
+3708229311
+-105.2220383
+39.7454717
+2020 6 17
+13 55 43
+
+831
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\831.jpg
+false
+6997933405
+-105.2245597
+39.7441305
+2020 6 17
+13 56 35
+
+832
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\832.jpg
+false
+3723089154
+-105.2346343
+39.7509271
+2020 6 17
+13 57 35
+
+833
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\833.jpg
+false
+1342716905
+-105.1985743
+39.7436956
+2020 6 17
+13 58 31
+
+834
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\834.jpg
+false
+3717741287
+-105.2343259
+39.7671783
+2020 6 17
+13 59 21
+
+835
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\835.jpg
+false
+4121920068
+-105.2315662
+39.7565185
+2020 6 17
+14 0 58
+
+836
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\836.jpg
+false
+490267249
+-105.2315035
+39.7657719
+2020 6 17
+14 1 6
+
+837
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\837.jpg
+false
+5561697895
+-105.2234802
+39.7569994
+2020 6 17
+14 2 29
+
+838
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\838.jpg
+false
+1313735078
+-105.2199859
+39.742987
+2020 6 17
+14 3 57
+
+839
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\839.jpg
+false
+5175704715
+-105.2213307
+39.7472131
+2020 6 17
+14 4 44
+
+840
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\840.jpg
+true
+177339664
+-105.2312824
+39.7779093
+2020 6 17
+14 5 8
+
+841
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\841.jpg
+false
+6215267278
+-105.2289079
+39.7667785
+2020 6 17
+14 6 3
+
+842
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\842.jpg
+false
+559303732
+-105.2022242
+39.7286985
+2020 6 17
+14 7 11
+
+843
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\843.jpg
+false
+6905867582
+-105.2101488
+39.7466192
+2020 6 17
+14 8 32
+
+844
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\844.jpg
+false
+1342736579
+-105.2077147
+39.7314942
+2020 6 17
+14 9 33
+
+845
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\845.jpg
+false
+177368753
+-105.2212574
+39.7617696
+2020 6 17
+14 10 50
+
+846
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\846.jpg
+false
+985981100
+-105.2009694
+39.7254634
+2020 6 17
+14 11 11
+
+847
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\847.jpg
+false
+5175706435
+-105.2215094
+39.7473845
+2020 6 17
+14 12 22
+
+848
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\848.jpg
+false
+3960514960
+-105.2226021
+39.7558534
+2020 6 17
+14 13 0
+
+849
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\849.jpg
+false
+3663134765
+-105.1934498
+39.7376524
+2020 6 17
+14 14 24
+
+850
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\850.jpg
+false
+7024891816
+-105.2088728
+39.7311745
+2020 6 17
+14 15 22
+
+851
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\851.jpg
+false
+3398382831
+-105.2333443
+39.7507215
+2020 6 17
+14 16 52
+
+852
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\852.jpg
+false
+5567263895
+-105.2077818
+39.7311441
+2020 6 17
+14 17 2
+
+853
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\853.jpg
+false
+1342742587
+-105.2154185
+39.7417509
+2020 6 17
+14 18 1
+
+854
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\854.jpg
+false
+6562581966
+-105.2270119
+39.7616412
+2020 6 17
+14 19 39
+
+855
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\855.jpg
+false
+6050438887
+-105.2272555
+39.7495219
+2020 6 17
+14 20 5
+
+856
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\856.jpg
+false
+6395110609
+-105.2229074
+39.750437
+2020 6 17
+14 21 32
+
+857
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\857.jpg
+false
+6894388676
+-105.2228312
+39.7484114
+2020 6 17
+14 22 46
+
+858
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\858.jpg
+false
+817841288
+-105.1985178
+39.7405542
+2020 6 17
+14 23 15
+
+859
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\859.jpg
+false
+4095441799
+-105.2132834
+39.7471297
+2020 6 17
+14 24 18
+
+860
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\860.jpg
+true
+559303760
+-105.2021564
+39.7275174
+2020 6 17
+14 25 17
+
+861
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\861.jpg
+false
+490274873
+-105.217762
+39.7538756
+2020 6 17
+14 26 19
+
+862
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\862.jpg
+false
+3755217222
+-105.2012289
+39.7409969
+2020 6 17
+14 27 3
+
+863
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\863.jpg
+false
+5567263901
+-105.2064836
+39.7273934
+2020 6 17
+14 28 31
+
+864
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\864.jpg
+false
+177260048
+-105.1882791
+39.7363275
+2020 6 17
+14 29 12
+
+865
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\865.jpg
+false
+7161398375
+-105.2144377
+39.7506664
+2020 6 17
+14 30 39
+
+866
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\866.jpg
+false
+1342736681
+-105.2090451
+39.7301679
+2020 6 17
+14 31 56
+
+867
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\867.jpg
+false
+6796283561
+-105.2027529
+39.7259516
+2020 6 17
+14 32 58
+
+868
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\868.jpg
+false
+2659145320
+-105.2181616
+39.7559288
+2020 6 17
+14 33 39
+
+869
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\869.jpg
+false
+7012988410
+-105.2239113
+39.7528656
+2020 6 17
+14 34 30
+
+870
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\870.jpg
+false
+6896488825
+-105.2171303
+39.7490099
+2020 6 17
+14 35 2
+
+871
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\871.jpg
+false
+1075569776
+-105.21633
+39.7525022
+2020 6 17
+14 36 20
+
+872
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\872.jpg
+false
+4929550549
+-105.2178389
+39.7580432
+2020 6 17
+14 37 45
+
+873
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\873.jpg
+false
+6758515150
+-105.2214194
+39.7485518
+2020 6 17
+14 38 15
+
+874
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\874.jpg
+false
+7007180794
+-105.2194645
+39.7595686
+2020 6 17
+14 39 37
+
+875
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\875.jpg
+false
+7205646706
+-105.2311798
+39.7719503
+2020 6 17
+14 40 53
+
+876
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\876.jpg
+false
+5175721154
+-105.2233226
+39.7458444
+2020 6 17
+14 41 36
+
+877
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\877.jpg
+false
+4705189736
+-105.1952878
+39.7380868
+2020 6 17
+14 42 24
+
+878
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\878.jpg
+false
+6997886157
+-105.2189602
+39.7504604
+2020 6 17
+14 43 51
+
+879
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\879.jpg
+false
+7012988394
+-105.2235411
+39.7526806
+2020 6 17
+14 44 27
+
+880
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\880.jpg
+true
+6307267145
+-105.2357045
+39.769772
+2020 6 17
+14 45 57
+
+881
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\881.jpg
+false
+3398383060
+-105.223048
+39.768671
+2020 6 17
+14 46 11
+
+882
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\882.jpg
+false
+3699219894
+-105.206903
+39.7430824
+2020 6 17
+14 47 54
+
+883
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\883.jpg
+false
+1342733699
+-105.1991249
+39.7409554
+2020 6 17
+14 48 13
+
+884
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\884.jpg
+false
+602918696
+-105.2261834
+39.7659635
+2020 6 17
+14 49 43
+
+885
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\885.jpg
+false
+177360749
+-105.2341414
+39.7679039
+2020 6 17
+14 50 45
+
+886
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\886.jpg
+false
+7007153053
+-105.2239476
+39.7583589
+2020 6 17
+14 51 4
+
+887
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\887.jpg
+false
+6894388672
+-105.2223106
+39.747507
+2020 6 17
+14 52 30
+
+888
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\888.jpg
+false
+6047377265
+-105.2324239
+39.7517695
+2020 6 17
+14 53 14
+
+889
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\889.jpg
+false
+6914305412
+-105.2098504
+39.7468177
+2020 6 17
+14 54 47
+
+890
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\890.jpg
+false
+1342736757
+-105.2080392
+39.7319006
+2020 6 17
+14 55 57
+
+891
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\891.jpg
+false
+1342736793
+-105.2004647
+39.7327587
+2020 6 17
+14 56 12
+
+892
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\892.jpg
+false
+3708230061
+-105.2205828
+39.7469628
+2020 6 17
+14 57 14
+
+893
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\893.jpg
+false
+6090159551
+-105.2214899
+39.7469839
+2020 6 17
+14 58 0
+
+894
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\894.jpg
+false
+3699150398
+-105.196541
+39.7362913
+2020 6 17
+14 59 37
+
+895
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\895.jpg
+false
+6047522463
+-105.2226391
+39.7449815
+2020 6 17
+15 0 25
+
+896
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\896.jpg
+false
+7161426702
+-105.2126914
+39.7514567
+2020 6 17
+15 1 0
+
+897
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\897.jpg
+false
+4121920030
+-105.2322381
+39.7556141
+2020 6 17
+15 2 25
+
+898
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\898.jpg
+false
+5175706448
+-105.2210787
+39.7473487
+2020 6 17
+15 3 33
+
+899
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\899.jpg
+false
+1034931294
+-105.2252598
+39.7550779
+2020 6 17
+15 4 27
+
+900
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\900.jpg
+true
+1342703504
+-105.1977199
+39.7408816
+2020 6 17
+15 5 9
+
+901
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\901.jpg
+false
+1054595626
+-105.2004655
+39.7281898
+2020 6 17
+15 6 26
+
+902
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\902.jpg
+false
+560142277
+-105.2161317
+39.7371438
+2020 6 17
+15 7 47
+
+903
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\903.jpg
+false
+6896488822
+-105.2169355
+39.7491213
+2020 6 17
+15 8 26
+
+904
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\904.jpg
+false
+1342736792
+-105.2054616
+39.7310776
+2020 6 17
+15 9 54
+
+905
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\905.jpg
+false
+5558749659
+-105.1992062
+39.7418488
+2020 6 17
+15 10 26
+
+906
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\906.jpg
+false
+602909652
+-105.2330221
+39.763658
+2020 6 17
+15 11 16
+
+907
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\907.jpg
+false
+1054595630
+-105.2004306
+39.7280846
+2020 6 17
+15 12 50
+
+908
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\908.jpg
+false
+6067589399
+-105.201076
+39.7434383
+2020 6 17
+15 13 50
+
+909
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\909.jpg
+false
+439938815
+-105.2168831
+39.7377243
+2020 6 17
+15 14 1
+
+910
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\910.jpg
+false
+7007239065
+-105.2358783
+39.7657377
+2020 6 17
+15 15 40
+
+911
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\911.jpg
+false
+2524913233
+-105.1989642
+39.7265357
+2020 6 17
+15 16 3
+
+912
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\912.jpg
+false
+5558749557
+-105.2113692
+39.7473013
+2020 6 17
+15 17 39
+
+913
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\913.jpg
+false
+322094351
+-105.2427171
+39.764244
+2020 6 17
+15 18 15
+
+914
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\914.jpg
+false
+602915061
+-105.2369475
+39.7684504
+2020 6 17
+15 19 6
+
+915
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\915.jpg
+false
+3960514963
+-105.2216578
+39.7558892
+2020 6 17
+15 20 36
+
+916
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\916.jpg
+false
+6047651228
+-105.2236125
+39.7455655
+2020 6 17
+15 21 14
+
+917
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\917.jpg
+false
+1342716979
+-105.1964298
+39.7386242
+2020 6 17
+15 22 44
+
+918
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\918.jpg
+false
+6395110607
+-105.2229478
+39.7503371
+2020 6 17
+15 23 22
+
+919
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\919.jpg
+false
+7024971388
+-105.200749
+39.7365303
+2020 6 17
+15 24 33
+
+920
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\920.jpg
+true
+5567264490
+-105.2117487
+39.7363217
+2020 6 17
+15 25 57
+
+921
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\921.jpg
+false
+602909539
+-105.232656
+39.7582523
+2020 6 17
+15 26 59
+
+922
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\922.jpg
+false
+3717628253
+-105.2320421
+39.7640662
+2020 6 17
+15 27 36
+
+923
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\923.jpg
+false
+7112351673
+-105.1991626
+39.7412686
+2020 6 17
+15 28 23
+
+924
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\924.jpg
+false
+3717628009
+-105.2310715
+39.7607462
+2020 6 17
+15 29 26
+
+925
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\925.jpg
+false
+7024777813
+-105.2153738
+39.73471
+2020 6 17
+15 30 45
+
+926
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\926.jpg
+false
+4121920046
+-105.2315983
+39.7560989
+2020 6 17
+15 31 49
+
+927
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\927.jpg
+false
+7007239042
+-105.2367309
+39.7668984
+2020 6 17
+15 32 22
+
+928
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\928.jpg
+false
+322094746
+-105.2452202
+39.765322
+2020 6 17
+15 33 46
+
+929
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\929.jpg
+false
+4929550587
+-105.2153967
+39.7596931
+2020 6 17
+15 34 12
+
+930
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\930.jpg
+false
+7007239111
+-105.235768
+39.7675746
+2020 6 17
+15 35 21
+
+931
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\931.jpg
+false
+2363991353
+-105.2209453
+39.7517731
+2020 6 17
+15 36 8
+
+932
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\932.jpg
+false
+6906205248
+-105.2153376
+39.749047
+2020 6 17
+15 37 4
+
+933
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\933.jpg
+false
+2524907319
+-105.21131
+39.7445619
+2020 6 17
+15 38 54
+
+934
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\934.jpg
+false
+5561696707
+-105.2338618
+39.7545293
+2020 6 17
+15 39 20
+
+935
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\935.jpg
+false
+413774633
+-105.2259536
+39.755064
+2020 6 17
+15 40 58
+
+936
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\936.jpg
+false
+3398383049
+-105.2230648
+39.7698047
+2020 6 17
+15 41 54
+
+937
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\937.jpg
+false
+4015494674
+-105.2237837
+39.7546515
+2020 6 17
+15 42 18
+
+938
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\938.jpg
+false
+7117372169
+-105.2351571
+39.7639571
+2020 6 17
+15 43 46
+
+939
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\939.jpg
+false
+7127276491
+-105.2376686
+39.7639318
+2020 6 17
+15 44 4
+
+940
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\940.jpg
+true
+506060315
+-105.2190545
+39.7623664
+2020 6 17
+15 45 56
+
+941
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\941.jpg
+false
+1207947903
+-105.2122966
+39.7527904
+2020 6 17
+15 46 57
+
+942
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\942.jpg
+false
+6050449317
+-105.2280535
+39.7504896
+2020 6 17
+15 47 41
+
+943
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\943.jpg
+false
+177339145
+-105.2224247
+39.7631038
+2020 6 17
+15 48 49
+
+944
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\944.jpg
+false
+7007229344
+-105.2335746
+39.7659227
+2020 6 17
+15 49 51
+
+945
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\945.jpg
+false
+6997933288
+-105.2304102
+39.7444017
+2020 6 17
+15 50 52
+
+946
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\946.jpg
+false
+7143775062
+-105.1950165
+39.7370928
+2020 6 17
+15 51 36
+
+947
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\947.jpg
+false
+1054595673
+-105.2000365
+39.7277332
+2020 6 17
+15 52 42
+
+948
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\948.jpg
+false
+3969506717
+-105.2202187
+39.7525334
+2020 6 17
+15 53 21
+
+949
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\949.jpg
+false
+7012988411
+-105.2239475
+39.7528455
+2020 6 17
+15 54 23
+
+950
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\950.jpg
+false
+3398382819
+-105.2326863
+39.7512003
+2020 6 17
+15 55 5
+
+951
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\951.jpg
+false
+3699179727
+-105.1965614
+39.7375298
+2020 6 17
+15 56 37
+
+952
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\952.jpg
+false
+5567264486
+-105.2116035
+39.736927
+2020 6 17
+15 57 51
+
+953
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\953.jpg
+false
+177250441
+-105.2031298
+39.7244425
+2020 6 17
+15 58 50
+
+954
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\954.jpg
+false
+5558745014
+-105.2144133
+39.7505875
+2020 6 17
+15 59 25
+
+955
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\955.jpg
+false
+983941481
+-105.2224376
+39.7406788
+2020 6 17
+16 0 33
+
+956
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\956.jpg
+false
+7126211027
+-105.2339635
+39.7633032
+2020 6 17
+16 1 0
+
+957
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\957.jpg
+false
+177249722
+-105.225033
+39.7611092
+2020 6 17
+16 2 49
+
+958
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\958.jpg
+false
+177363816
+-105.2352161
+39.7627796
+2020 6 17
+16 3 25
+
+959
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\959.jpg
+false
+3723089171
+-105.2385329
+39.7515713
+2020 6 17
+16 4 44
+
+960
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\960.jpg
+true
+439949660
+-105.201935
+39.7260173
+2020 6 17
+16 5 28
+
+961
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\961.jpg
+false
+580411020
+-105.2122772
+39.7360174
+2020 6 17
+16 6 32
+
+962
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\962.jpg
+false
+1342733669
+-105.196247
+39.738435
+2020 6 17
+16 7 55
+
+963
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\963.jpg
+false
+2622973637
+-105.2230276
+39.751188
+2020 6 17
+16 8 11
+
+964
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\964.jpg
+false
+177385750
+-105.23674
+39.7590686
+2020 6 17
+16 9 18
+
+965
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\965.jpg
+false
+435021905
+-105.2247505
+39.7681116
+2020 6 17
+16 10 58
+
+966
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\966.jpg
+false
+3711282419
+-105.1986918
+39.73264
+2020 6 17
+16 11 38
+
+967
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\967.jpg
+false
+4029667371
+-105.2318271
+39.7560779
+2020 6 17
+16 12 53
+
+968
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\968.jpg
+false
+3723089159
+-105.2344736
+39.7512598
+2020 6 17
+16 13 2
+
+969
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\969.jpg
+false
+6047670564
+-105.2256982
+39.7476698
+2020 6 17
+16 14 29
+
+970
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\970.jpg
+false
+3960644307
+-105.2232707
+39.7572848
+2020 6 17
+16 15 20
+
+971
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\971.jpg
+false
+3708260986
+-105.20936
+39.7349019
+2020 6 17
+16 16 57
+
+972
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\972.jpg
+false
+2256672207
+-105.2065507
+39.7311497
+2020 6 17
+16 17 13
+
+973
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\973.jpg
+false
+6047714636
+-105.2287763
+39.7507502
+2020 6 17
+16 18 20
+
+974
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\974.jpg
+false
+6905902724
+-105.2078435
+39.7468048
+2020 6 17
+16 19 24
+
+975
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\975.jpg
+false
+177359990
+-105.2146463
+39.7516716
+2020 6 17
+16 20 58
+
+976
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\976.jpg
+false
+2524907344
+-105.2105472
+39.7442936
+2020 6 17
+16 21 55
+
+977
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\977.jpg
+false
+5008622119
+-105.2245236
+39.7418082
+2020 6 17
+16 22 11
+
+978
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\978.jpg
+false
+4059389965
+-105.2143719
+39.7543029
+2020 6 17
+16 23 29
+
+979
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\979.jpg
+false
+7317509569
+-105.2267282
+39.7613404
+2020 6 17
+16 24 52
+
+980
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\980.jpg
+true
+7127276299
+-105.2365015
+39.7588708
+2020 6 17
+16 25 50
+
+981
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\981.jpg
+false
+1342733601
+-105.1937445
+39.7383226
+2020 6 17
+16 26 18
+
+982
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\982.jpg
+false
+6050438880
+-105.2276897
+39.7499019
+2020 6 17
+16 27 39
+
+983
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\983.jpg
+false
+3746712969
+-105.1927429
+39.7418873
+2020 6 17
+16 28 17
+
+984
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\984.jpg
+false
+177249739
+-105.2156827
+39.7511058
+2020 6 17
+16 29 33
+
+985
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\985.jpg
+false
+6543802794
+-105.2108033
+39.7300219
+2020 6 17
+16 30 34
+
+986
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\986.jpg
+false
+4015494672
+-105.2239561
+39.754594
+2020 6 17
+16 31 3
+
+987
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\987.jpg
+false
+7012983581
+-105.2232992
+39.7506664
+2020 6 17
+16 32 18
+
+988
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\988.jpg
+false
+6928991919
+-105.2169821
+39.7540454
+2020 6 17
+16 33 16
+
+989
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\989.jpg
+false
+6227628013
+-105.2118409
+39.7415944
+2020 6 17
+16 34 1
+
+990
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\990.jpg
+false
+3663134774
+-105.1947025
+39.7380842
+2020 6 17
+16 35 34
+
+991
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\991.jpg
+false
+7317509544
+-105.2250143
+39.7595057
+2020 6 17
+16 36 45
+
+992
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\992.jpg
+false
+6050449601
+-105.229444
+39.7501736
+2020 6 17
+16 37 10
+
+993
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\993.jpg
+false
+177318875
+-105.228062
+39.7630504
+2020 6 17
+16 38 35
+
+994
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\994.jpg
+false
+817919323
+-105.1939606
+39.7354815
+2020 6 17
+16 39 23
+
+995
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\995.jpg
+false
+4015494611
+-105.2261703
+39.7528313
+2020 6 17
+16 40 51
+
+996
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\996.jpg
+false
+559829847
+-105.2102864
+39.7310923
+2020 6 17
+16 41 9
+
+997
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\997.jpg
+false
+6796283520
+-105.2030599
+39.7259514
+2020 6 17
+16 42 39
+
+998
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\998.jpg
+false
+1313756106
+-105.2013268
+39.7355491
+2020 6 17
+16 43 36
+
+999
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\999.jpg
+false
+1207947935
+-105.2060293
+39.7471466
+2020 6 17
+16 44 34
+
+1000
+C:\Users\andym\OneDrive\Pictures\Camera Roll\GoldenMapPhotos\1000.jpg
+true
+4059390678
+-105.2439383
+39.7529911
+2020 6 17
+16 45 29
+

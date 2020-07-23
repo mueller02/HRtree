@@ -1,0 +1,3 @@
+C:/Users/andym/CLionProjects/Rtree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/andym/CLionProjects/Rtree/cmake-build-debug/CMakeFiles/Rtree.dir
+C:/Users/andym/CLionProjects/Rtree/cmake-build-debug/CMakeFiles/edit_cache.dir
